@@ -821,3 +821,65 @@ BCLib - The End  BiomeSource (4a1db6d9)
 [01:43:25] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/30965, l='ServerLevel[world]', x=0.05, y=75.00, z=23.73] at TeleportTarget{pitch=31.775414, position=(102.5, 63.0, 148.72516791437337), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-42.973423}
 [01:43:37] [Server thread/INFO]: DinokoMC has completed the challenge [Hot Tourist Destinations]
 [01:43:38] [Server thread/INFO]: Pikel_03 has completed the challenge [Hot Tourist Destinations]
+[01:46:42] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[01:48:33] [Server thread/INFO]: Villager class_1646['Villager'/233, l='ServerLevel[world]', x=143.70, y=55.00, z=138.08] died, message: 'Villager was slain by Zombie'
+[01:49:17] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[01:49:36] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[01:49:36] [Server thread/INFO]: DinokoMC left the game
+[01:49:41] [Server thread/INFO]: ziKoc lost connection: Timed out
+[01:49:41] [Server thread/INFO]: ziKoc left the game
+[01:50:12] [Server thread/INFO]: DinokoMC[/127.67.254.107:56593] logged in with entity id 42921 at (-49.30000001192093, 79.0, -100.69999998807907)
+[01:50:12] [Server thread/INFO]: DinokoMC joined the game
+[01:50:12] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:50:12] [Server thread/INFO]: [Pikel_03: Teleported DinokoMC to Pikel_03]
+[01:50:14] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:50:14] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:50:14] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:50:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:50:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:50:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:50:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:50:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:50:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:50:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:50:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:51:45] [Server thread/INFO]: ziKoc[/127.59.215.201:59783] logged in with entity id 43163 at (52.979608279800885, 64.0, 166.20955054673797)
+[01:51:45] [Server thread/INFO]: ziKoc joined the game
+[01:51:45] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:51:48] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:51:48] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:51:48] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:51:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:51:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:51:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:51:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:51:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:51:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:51:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:51:48] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:52:00] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1.500000, 75.500000, 23.500000]
+[01:52:08] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -3.500000, 75.500000, 25.500000]
+[01:52:09] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/13576, l='ServerLevel[world]', x=0.36, y=75.00, z=23.58] at TeleportTarget{pitch=24.764244, position=(102.5, 63.0, 148.57542338364203), velocity=(0.0, -0.0784000015258789, 0.0), yaw=103.933105}
+[01:52:11] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/13576, l='ServerLevel[world]', x=0.53, y=75.00, z=24.37] at TeleportTarget{pitch=29.423943, position=(102.5, 63.0, 149.37436590841105), velocity=(0.09214018843149206, -0.0784000015258789, 0.12369790689815219), yaw=70.797424}
+[01:52:12] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/42921, l='ServerLevel[world]', x=0.37, y=75.00, z=23.91] at TeleportTarget{pitch=27.381784, position=(102.5, 63.0, 148.90947734463944), velocity=(-0.017790492722879987, -0.0784000015258789, -0.033429028362332545), yaw=-131.97556}
+[01:54:35] [Server thread/INFO]: [Not Secure] <DinokoMC> zzz
+[01:54:35] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:35] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:36] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:36] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:36] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:38] [Server thread/INFO]: [Not Secure] <Pikel_03> fap
+[01:54:41] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:41] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:42] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:42] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:42] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:42] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:42] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:43] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:43] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:43] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:43] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:43] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:44] [Server thread/INFO]: [Not Secure] <DinokoMC> z
+[01:54:46] [Server thread/INFO]: [Not Secure] <DinokoMC> z
