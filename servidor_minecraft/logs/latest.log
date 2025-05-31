@@ -663,3 +663,23 @@ BCLib - The End  BiomeSource (4a1db6d9)
 [00:50:45] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
 [00:51:41] [Server thread/INFO]: ziKoc has made the advancement [What a Deal!]
 [00:55:25] [Server thread/INFO]: [Not Secure] <ziKoc> Mouse Tweaks
+[01:01:24] [Server thread/INFO]: DinokoMC has made the advancement [Hot Stuff]
+[01:01:32] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[01:01:32] [Server thread/INFO]: Pikel_03 left the game
+[01:01:37] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
+[01:02:35] [Server thread/INFO]: Pikel_03[/127.189.11.85:34389] logged in with entity id 12092 at (57.365332863647005, 70.0, 167.3933914235996)
+[01:02:35] [Server thread/INFO]: Pikel_03 joined the game
+[01:02:35] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:02:36] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:02:36] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:02:36] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:02:36] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:02:49] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[01:02:49] [Server thread/INFO]: Pikel_03 left the game
