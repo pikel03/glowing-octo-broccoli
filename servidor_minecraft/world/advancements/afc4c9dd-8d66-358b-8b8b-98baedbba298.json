@@ -2918,5 +2918,11 @@
     },
     "done": true
   },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-05-31 03:45:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

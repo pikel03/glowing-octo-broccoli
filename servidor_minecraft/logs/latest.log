@@ -1047,3 +1047,53 @@ BCLib - The End  BiomeSource (4a1db6d9)
 [03:35:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [03:35:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [03:35:09] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:38:08] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[03:38:08] [Server thread/INFO]: Pikel_03 left the game
+[03:38:19] [Server thread/INFO]: Pikel_03[/127.189.11.85:51403] logged in with entity id 85507 at (52.90355163665017, 64.0, 162.06227599103667)
+[03:38:19] [Server thread/INFO]: Pikel_03 joined the game
+[03:38:19] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:38:20] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:38:20] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:38:20] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:38:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:38:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:38:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:38:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:38:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:38:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:38:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:38:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:39:12] [Server thread/INFO]: [Not Secure] <ziKoc> lo deje de escuchar
+[03:39:19] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[03:39:19] [Server thread/INFO]: Pikel_03 left the game
+[03:39:52] [Server thread/INFO]: Pikel_03[/127.189.11.85:52121] logged in with entity id 87264 at (105.30000001192093, 64.0, 189.10247658023593)
+[03:39:52] [Server thread/INFO]: Pikel_03 joined the game
+[03:39:52] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:39:52] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:39:52] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:39:52] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:39:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:39:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:39:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:39:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:39:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:39:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:39:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:39:52] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:42:22] [Server thread/INFO]: ziKoc lost connection: Timed out
+[03:42:22] [Server thread/INFO]: ziKoc left the game
+[03:44:29] [Server thread/INFO]: ziKoc[/127.59.215.201:47669] logged in with entity id 88682 at (91.68734423054032, 64.0, 185.25467289311806)
+[03:44:29] [Server thread/INFO]: ziKoc joined the game
+[03:44:29] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[03:44:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:44:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:44:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:44:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:44:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:44:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:44:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:44:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:44:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:44:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:44:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:46:47] [Server thread/INFO]: [Not Secure] <ziKoc> zzzzzzzzzzz
