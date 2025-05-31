@@ -1009,3 +1009,25 @@ BCLib - The End  BiomeSource (4a1db6d9)
 [03:06:06] [Server thread/INFO]: [Not Secure] <DinokoMC> ya
 [03:06:16] [Server thread/INFO]: [Not Secure] <DinokoMC> nada?
 [03:06:25] [Server thread/INFO]: [Not Secure] <DinokoMC> yo si te escucho
+[03:07:13] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:07:42] [Server thread/INFO]: [Not Secure] <DinokoMC> bcv
+[03:07:58] [Server thread/INFO]: [Not Secure] <DinokoMC> 96.54
+[03:09:09] [Server thread/WARN]: ziKoc was kicked for floating too long!
+[03:09:09] [Server thread/INFO]: ziKoc lost connection: Flying is not enabled on this server
+[03:09:09] [Server thread/INFO]: ziKoc left the game
+[03:10:09] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[03:10:09] [Server thread/INFO]: DinokoMC left the game
+[03:11:49] [Server thread/INFO]: ziKoc[/127.59.215.201:33891] logged in with entity id 77302 at (85.74559371593314, 64.7531999805212, 171.32920754617757)
+[03:11:49] [Server thread/INFO]: ziKoc joined the game
+[03:11:49] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[03:11:52] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:11:52] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:11:52] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:11:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:11:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:11:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:11:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:11:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:11:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:11:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:11:52] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
