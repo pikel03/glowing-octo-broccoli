@@ -1498,9 +1498,11 @@
       "minecraft:pillager": "2025-05-31 00:37:59 +0000",
       "minecraft:blaze": "2025-05-31 01:26:43 +0000",
       "minecraft:skeleton": "2025-05-30 03:02:20 +0000",
+      "minecraft:ghast": "2025-05-31 01:38:00 +0000",
       "minecraft:spider": "2025-05-30 03:15:10 +0000",
       "minecraft:piglin_brute": "2025-05-31 01:28:02 +0000",
       "minecraft:creeper": "2025-05-30 03:03:56 +0000",
+      "minecraft:wither_skeleton": "2025-05-31 01:39:39 +0000",
       "minecraft:piglin": "2025-05-31 01:27:26 +0000",
       "minecraft:enderman": "2025-05-30 03:06:19 +0000",
       "minecraft:zombie": "2025-05-30 03:03:29 +0000"
@@ -2422,6 +2424,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-31 01:25:26 +0000",
+      "minecraft:soul_sand_valley": "2025-05-31 01:36:06 +0000",
       "minecraft:basalt_deltas": "2025-05-31 01:25:17 +0000"
     },
     "done": false
@@ -2462,9 +2465,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 01:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 01:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-31 01:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 01:33:59 +0000"
     },
     "done": true
   },
@@ -2510,9 +2531,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 01:33:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-05-31 01:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-31 01:32:24 +0000"
     },
     "done": true
   },
@@ -2525,6 +2558,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-05-31 01:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 01:33:59 +0000"
     },
     "done": true
   },
@@ -2552,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 01:33:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_eye_amber": {
     "criteria": {
       "has_ender_pearl": "2025-05-31 01:30:57 +0000"
@@ -2564,9 +2609,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-31 01:36:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-05-31 01:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-31 01:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 01:33:59 +0000"
     },
     "done": true
   },
@@ -2579,6 +2642,18 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-05-31 01:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 01:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 01:33:59 +0000"
     },
     "done": true
   },
@@ -2609,6 +2684,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-05-31 01:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-31 01:32:24 +0000"
     },
     "done": true
   },

@@ -810,3 +810,14 @@ BCLib - The End  BiomeSource (4a1db6d9)
 [01:33:43] [Server thread/INFO]: [Not Secure] <ziKoc> volví en cero coma
 [01:33:44] [Server thread/INFO]: [Not Secure] <ziKoc> jaksjk
 [01:35:36] [Server thread/INFO]: ziKoc has made the advancement [Diamonds!]
+[01:36:27] [Server thread/INFO]: DinokoMC has made the advancement [Into Fire]
+[01:36:27] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[01:37:05] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[01:38:09] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[01:39:34] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:41:05] [Server thread/INFO]: [Not Secure] <Pikel_03> xaero-waypoint:Portal:P:-2:75:23:5:false:0:Internal-the-nether-waypoints
+[01:42:10] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[01:43:20] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -1.500000, 75.500000, 23.500000]
+[01:43:25] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/30965, l='ServerLevel[world]', x=0.05, y=75.00, z=23.73] at TeleportTarget{pitch=31.775414, position=(102.5, 63.0, 148.72516791437337), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-42.973423}
+[01:43:37] [Server thread/INFO]: DinokoMC has completed the challenge [Hot Tourist Destinations]
+[01:43:38] [Server thread/INFO]: Pikel_03 has completed the challenge [Hot Tourist Destinations]

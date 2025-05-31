@@ -1369,6 +1369,7 @@
       "minecraft:skeleton": "2025-05-30 03:01:45 +0000",
       "minecraft:spider": "2025-05-29 01:33:52 +0000",
       "minecraft:creeper": "2025-05-29 01:33:49 +0000",
+      "minecraft:wither_skeleton": "2025-05-31 01:33:30 +0000",
       "minecraft:enderman": "2025-05-30 03:20:10 +0000",
       "minecraft:zombie": "2025-05-29 01:21:56 +0000"
     },
@@ -2655,9 +2656,16 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-31 01:25:26 +0000",
+      "minecraft:soul_sand_valley": "2025-05-31 01:36:04 +0000",
       "minecraft:basalt_deltas": "2025-05-31 01:25:15 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-31 01:31:05 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
@@ -2695,6 +2703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-31 01:31:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_hanging_sign": {
     "criteria": {
       "has_chain": "2025-05-31 01:29:57 +0000"
@@ -2719,6 +2733,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-31 01:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-31 01:29:40 +0000"
@@ -2728,6 +2748,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-31 01:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-31 01:32:56 +0000"
     },
     "done": true
   },
@@ -2746,6 +2772,18 @@
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-05-31 01:27:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-31 01:32:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-31 01:31:05 +0000"
     },
     "done": true
   },
@@ -2785,9 +2823,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-31 01:31:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 01:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-31 01:33:40 +0000"
     },
     "done": true
   },
@@ -2800,6 +2850,18 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 01:15:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-05-31 01:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-31 01:36:27 +0000"
     },
     "done": true
   },
@@ -2836,6 +2898,18 @@
   "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-05-31 01:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-31 01:36:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-31 01:31:05 +0000"
     },
     "done": true
   },
