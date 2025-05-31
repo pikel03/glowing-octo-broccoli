@@ -949,3 +949,58 @@ BCLib - The End  BiomeSource (4a1db6d9)
 [02:43:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [02:43:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [02:43:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:46:57] [Server thread/INFO]: DinokoMC has made the advancement [Best Friends Forever]
+[02:47:45] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:50:31] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[02:50:31] [Server thread/INFO]: Pikel_03 left the game
+[02:50:50] [Server thread/INFO]: Pikel_03[/127.189.11.85:52719] logged in with entity id 61509 at (78.54010535618072, 67.0, 177.83392405978324)
+[02:50:50] [Server thread/INFO]: Pikel_03 joined the game
+[02:50:50] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[02:50:51] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:50:51] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:50:51] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:50:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:50:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:50:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:50:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:50:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:50:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:50:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:50:51] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:51:30] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[02:51:30] [Server thread/INFO]: DinokoMC left the game
+[02:51:33] [Server thread/INFO]: DinokoMC[/127.67.254.107:33051] logged in with entity id 62345 at (53.26787177870312, 64.0, 158.1701639004919)
+[02:51:33] [Server thread/INFO]: DinokoMC joined the game
+[02:51:33] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:51:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:51:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:51:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:51:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:51:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:51:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:51:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:51:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:51:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:51:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:51:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:51:36] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[02:51:36] [Server thread/INFO]: DinokoMC left the game
+[02:51:39] [Server thread/INFO]: DinokoMC[/127.67.254.107:47749] logged in with entity id 62461 at (52.71753058011101, 64.0, 159.20810765611685)
+[02:51:39] [Server thread/INFO]: DinokoMC joined the game
+[02:51:39] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:51:40] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:51:40] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:51:40] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:51:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:51:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:51:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:51:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:51:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:51:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:51:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:51:40] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:51:54] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[02:52:03] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[02:53:15] [Server thread/INFO]: Villager class_1646['Villager'/137, l='ServerLevel[world]', x=123.86, y=45.85, z=120.34] died, message: 'Villager was slain by Zombie'
+[02:55:20] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[02:55:20] [Server thread/INFO]: Pikel_03 left the game
