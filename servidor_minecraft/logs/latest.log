@@ -1031,3 +1031,19 @@ BCLib - The End  BiomeSource (4a1db6d9)
 [03:11:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [03:11:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [03:11:52] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:26:57] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 51.500000, 64.500000, 152.500000]
+[03:31:42] [Server thread/INFO]: Villager class_1646['Farmer'/142, l='ServerLevel[world]', x=150.42, y=53.94, z=133.46] died, message: 'Farmer was slain by Zombie'
+[03:35:08] [Server thread/INFO]: Pikel_03[/127.189.11.85:60781] logged in with entity id 82724 at (46.843613569144935, 64.0, 154.78669087981274)
+[03:35:08] [Server thread/INFO]: Pikel_03 joined the game
+[03:35:08] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:35:09] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:35:09] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:35:09] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:35:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:35:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:35:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:35:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:35:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:35:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:35:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:35:09] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
