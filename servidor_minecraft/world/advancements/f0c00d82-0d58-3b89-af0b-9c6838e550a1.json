@@ -3009,6 +3009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-31 01:51:23 +0000"
@@ -3018,6 +3024,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-05-31 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:03:19 +0000"
     },
     "done": true
   },
@@ -3039,6 +3051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-05-31 01:51:23 +0000"
@@ -3048,6 +3066,12 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-05-31 01:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:03:19 +0000"
     },
     "done": true
   },
@@ -3063,15 +3087,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-31 01:51:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-05-31 01:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:03:19 +0000"
     },
     "done": true
   },
@@ -3084,6 +3132,12 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-05-31 01:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:03:19 +0000"
     },
     "done": true
   },
