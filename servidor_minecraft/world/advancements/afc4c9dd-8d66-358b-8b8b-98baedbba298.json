@@ -798,6 +798,7 @@
       "porkchop": "2025-05-30 02:46:28 +0000",
       "apple": "2025-05-30 02:43:44 +0000",
       "bread": "2025-05-31 01:23:41 +0000",
+      "golden_apple": "2025-06-01 22:39:44 +0000",
       "golden_carrot": "2025-06-01 05:04:09 +0000",
       "cooked_chicken": "2025-05-30 02:46:49 +0000"
     },
@@ -3516,6 +3517,42 @@
   "master_cutter:recipes/metal/copper": {
     "criteria": {
       "requirement": "2025-06-01 05:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-06-01 22:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-06-01 22:42:37 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-06-01 22:41:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-06-01 22:38:57 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-06-01 22:41:43 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-06-01 22:41:58 +0000"
     },
     "done": true
   },
