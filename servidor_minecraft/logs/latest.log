@@ -597,3 +597,23 @@ BCLib - The End  BiomeSource (2ef06ba1)
 [02:33:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [02:33:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [02:33:56] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:35:55] [Server thread/INFO]: DinokoMC[/127.67.254.107:54711] logged in with entity id 1959 at (68.92425666322289, 64.0, 167.06615551372272)
+[02:35:55] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[02:35:55] [Server thread/INFO]: Loading config from file...
+[02:35:55] [Server thread/INFO]: DinokoMC joined the game
+[02:35:55] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:36:03] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:36:03] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:36:03] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:36:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:36:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:36:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:36:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:36:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:36:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:36:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:36:03] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:41:18] [Server thread/INFO]: Villager class_1646['Unemployed'/61, l='ServerLevel[world]', x=83.49, y=69.00, z=124.50] died, message: 'Unemployed went up in flames'
+[02:41:24] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[02:41:55] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[02:41:55] [Server thread/INFO]: Pikel_03 left the game
