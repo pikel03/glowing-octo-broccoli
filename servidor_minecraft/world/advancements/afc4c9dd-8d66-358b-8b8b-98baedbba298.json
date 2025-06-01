@@ -3622,6 +3622,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-06-01 23:08:06 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-06-01 22:54:09 +0000"
@@ -3640,6 +3646,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-01 23:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-06-01 23:08:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-06-01 22:59:06 +0000"
@@ -3649,6 +3667,12 @@
   "master_cutter:recipes/quartz/nether_quartz": {
     "criteria": {
       "requirement": "2025-06-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-01 23:08:06 +0000"
     },
     "done": true
   },

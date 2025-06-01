@@ -616,3 +616,38 @@ BCLib - The End  BiomeSource (32e4937a)
 [23:01:06] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
 [23:04:16] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
 [23:04:22] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[23:11:48] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/2815, l='ServerLevel[world]', x=102.14, y=64.00, z=149.67] at TeleportTarget{pitch=16.03122, position=(0.5, 76.0, 24.671709639619678), velocity=(0.0, -0.0784000015258789, 0.0), yaw=13.418345}
+[23:11:49] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/15460, l='ServerLevel[world]', x=101.82, y=64.00, z=148.87] at TeleportTarget{pitch=36.46827, position=(0.5, 76.0, 23.872362597418885), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-21.418182}
+[23:11:54] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/15460, l='ServerLevel[world]', x=102.23, y=64.00, z=148.69] at TeleportTarget{pitch=39.90577, position=(0.5, 76.0, 23.68763907242544), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-37.589386}
+[23:12:30] [Server thread/INFO]: ziKoc has made the advancement [Oh Shiny]
+[23:13:02] [Server thread/INFO]: DinokoMC has made the advancement [Oh Shiny]
+[23:14:48] [Server thread/INFO]: ziKoc has made the advancement [Who is Cutting Onions?]
+[23:16:27] [Server thread/INFO]: DinokoMC has made the advancement [Who is Cutting Onions?]
+[23:16:27] [Server thread/INFO]: DinokoMC has made the advancement [Ice Bucket Challenge]
+[23:20:14] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[23:20:14] [Server thread/INFO]: Pikel_03 left the game
+[23:21:18] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[23:21:20] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[23:21:22] [Server thread/INFO]: [Not Secure] <ziKoc> aw
+[23:21:27] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/15460, l='ServerLevel[world]', x=0.84, y=75.00, z=23.66] at TeleportTarget{pitch=37.10929, position=(102.5, 63.0, 148.66331302744487), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-67.32031}
+[23:21:28] [Server thread/INFO]: [Not Secure] <ziKoc> aw
+[23:21:30] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[23:21:31] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/2815, l='ServerLevel[world]', x=0.34, y=75.00, z=23.73] at TeleportTarget{pitch=37.10929, position=(102.5, 63.0, 148.72724607286412), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-67.32031}
+[23:25:22] [Server thread/INFO]: Pikel_03[/127.189.11.85:38077] logged in with entity id 34110 at (50.62609445552963, 65.875, 163.25102082945463)
+[23:25:22] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[23:25:22] [Server thread/INFO]: Loading config from file...
+[23:25:23] [Server thread/INFO]: Pikel_03 joined the game
+[23:25:23] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[23:25:25] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23:25:25] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23:25:25] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23:25:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23:25:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23:25:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23:25:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23:25:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23:25:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23:25:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23:25:25] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[23:25:45] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[23:28:29] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
