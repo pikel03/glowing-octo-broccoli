@@ -3649,19 +3649,13 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-06-01 05:30:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-06-01 05:50:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-01 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-06-01 05:28:32 +0000"
     },
@@ -3673,9 +3667,9 @@
     },
     "done": true
   },
-  "master_cutter:recipes/wood/spruce": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "requirement": "2025-06-01 05:40:57 +0000"
+      "enchanted_item": "2025-06-01 05:30:44 +0000"
     },
     "done": true
   },
@@ -3685,9 +3679,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "master_cutter:recipes/wood/spruce": {
     "criteria": {
-      "has_iron_block": "2025-06-01 05:28:32 +0000"
+      "requirement": "2025-06-01 05:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-06-01 05:50:20 +0000"
     },
     "done": true
   },
