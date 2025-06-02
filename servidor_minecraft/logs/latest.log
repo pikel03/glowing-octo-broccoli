@@ -1020,3 +1020,13 @@ BCLib - The End  BiomeSource (5875c7d8)
 [14:34:33] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1128.500000, 59.500000, 607.500000]
 [14:34:47] [Server thread/INFO]: Locating element minecraft:end_city took 449 ms
 [14:35:35] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[14:37:04] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[14:46:41] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[14:50:27] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[14:58:25] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[14:58:36] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -2507.500000, 63.500000, 2611.500000]
+[14:58:40] [Server thread/INFO]: Locating element minecraft:end_city took 3 ms
+[14:58:56] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 1647.500000, 64.500000, 3925.500000]
+[14:58:59] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[14:59:10] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[15:01:04] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]

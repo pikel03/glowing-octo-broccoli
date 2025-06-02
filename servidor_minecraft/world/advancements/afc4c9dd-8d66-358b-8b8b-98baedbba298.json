@@ -4150,8 +4150,11 @@
       "betterend:shadow_forest": "2025-06-02 01:42:42 +0000",
       "betterend:amber_land": "2025-06-02 01:27:02 +0000",
       "betterend:sulphur_springs": "2025-06-02 01:25:47 +0000",
+      "betterend:neon_oasis": "2025-06-02 14:35:51 +0000",
+      "betterend:painted_mountains": "2025-06-02 14:35:50 +0000",
       "betterend:foggy_mushroomland": "2025-06-02 01:29:07 +0000",
       "betterend:ice_starfield": "2025-06-02 01:41:58 +0000",
+      "betterend:dust_wastelands": "2025-06-02 14:35:58 +0000",
       "betterend:glowing_grasslands": "2025-06-02 02:01:23 +0000",
       "betterend:dragon_graveyards": "2025-06-02 01:25:42 +0000",
       "betterend:megalake_grove": "2025-06-02 02:02:56 +0000",
@@ -4159,6 +4162,7 @@
       "betterend:chorus_forest": "2025-06-02 01:24:49 +0000",
       "betterend:lantern_woods": "2025-06-02 01:41:14 +0000",
       "betterend:umbrella_jungle": "2025-06-02 01:25:34 +0000",
+      "betterend:megalake": "2025-06-02 14:42:58 +0000",
       "betterend:blossoming_spires": "2025-06-02 01:53:24 +0000"
     },
     "done": false
@@ -4831,7 +4835,10 @@
   },
   "betterend:all_the_templates": {
     "criteria": {
+      "got_netherite": "2025-06-02 14:53:20 +0000",
+      "got_leather": "2025-06-02 14:37:15 +0000",
       "got_plate": "2025-06-02 02:23:34 +0000",
+      "got_handle": "2025-06-02 14:38:54 +0000",
       "got_terminite": "2025-06-02 02:24:01 +0000",
       "got_thallasium": "2025-06-02 02:47:09 +0000"
     },
@@ -5302,6 +5309,60 @@
   "travelersbackpack:recipes/misc/dragon_smithing": {
     "criteria": {
       "has_dragon": "2025-06-02 04:48:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_hoe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_block": {
+    "criteria": {
+      "has_aeternium_ingot": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_pickaxe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_axe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/neon_cactus_block": {
+    "criteria": {
+      "has_neon_cactus": "2025-06-02 14:36:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_forged_plate": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_hammer_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_shovel_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_sword_blade": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
     },
     "done": true
   },
