@@ -140,3 +140,8 @@
 [00:26:24] [Server thread/INFO]: DinokoMC left the game
 [00:28:33] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
 [00:28:33] [Server thread/INFO]: Pikel_03 left the game
+[00:29:43] [Server thread/INFO]: DinokoMC[/127.67.254.107:52187] logged in with entity id 107320 at (189.1910536394386, 76.0, 120.19828363215656)
+[00:29:43] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[00:29:43] [Server thread/INFO]: Loading config from file...
+[00:29:43] [Server thread/INFO]: DinokoMC joined the game
+[00:29:43] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
