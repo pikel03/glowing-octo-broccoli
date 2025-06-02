@@ -14,10 +14,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-31 00:40:26 +0000",
+      "minecraft:sunflower_plains": "2025-06-02 00:02:47 +0000",
+      "minecraft:birch_forest": "2025-06-02 00:07:11 +0000",
       "minecraft:beach": "2025-05-29 01:16:43 +0000",
       "minecraft:river": "2025-05-29 01:09:33 +0000",
+      "minecraft:stony_shore": "2025-06-02 00:05:18 +0000",
       "minecraft:cold_ocean": "2025-05-30 03:18:59 +0000",
       "minecraft:forest": "2025-05-29 01:09:47 +0000",
+      "minecraft:ocean": "2025-06-02 00:03:20 +0000",
       "minecraft:flower_forest": "2025-05-31 00:39:33 +0000",
       "minecraft:plains": "2025-05-29 01:08:30 +0000"
     },
@@ -4088,6 +4092,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-01 23:58:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-06-01 23:58:33 +0000"
@@ -4106,9 +4116,33 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/blaze": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "has_blaze_rod": "2025-06-01 23:58:19 +0000"
+      "has_ender_eye": "2025-06-01 23:58:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-06-01 23:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-01 23:58:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-06-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-02 00:08:02 +0000"
     },
     "done": true
   },
