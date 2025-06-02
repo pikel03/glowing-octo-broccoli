@@ -4162,6 +4162,7 @@
       "betterend:chorus_forest": "2025-06-02 01:24:49 +0000",
       "betterend:lantern_woods": "2025-06-02 01:41:14 +0000",
       "betterend:umbrella_jungle": "2025-06-02 01:25:34 +0000",
+      "betterend:empty_aurora_cave": "2025-06-02 15:24:21 +0000",
       "betterend:megalake": "2025-06-02 14:42:58 +0000",
       "betterend:blossoming_spires": "2025-06-02 01:53:24 +0000"
     },
@@ -5318,6 +5319,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/eternal_crystal": {
+    "criteria": {
+      "has_item.minecraft.end_crystal": "2025-06-02 15:19:28 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/violecite_stairs": {
     "criteria": {
       "has_violecite": "2025-06-02 15:13:28 +0000"
@@ -5360,6 +5367,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/chorus_mushroom_smoker": {
+    "criteria": {
+      "has_item.betterend.chorus_mushroom_raw": "2025-06-02 15:22:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/violecite_furnace": {
     "criteria": {
       "has_violecite": "2025-06-02 15:13:28 +0000"
@@ -5369,6 +5382,12 @@
   "betterend:recipes/misc/violecite_brick_stair_stonecutting": {
     "criteria": {
       "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/chorus_mushroom_campfire": {
+    "criteria": {
+      "has_item.betterend.chorus_mushroom_raw": "2025-06-02 15:22:17 +0000"
     },
     "done": true
   },
@@ -5441,6 +5460,12 @@
   "betterend:recipes/misc/umbralith_tiles_stonecutting": {
     "criteria": {
       "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/chorus_mushroom_smelting": {
+    "criteria": {
+      "has_item.betterend.chorus_mushroom_raw": "2025-06-02 15:22:17 +0000"
     },
     "done": true
   },
