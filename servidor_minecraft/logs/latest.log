@@ -1047,3 +1047,11 @@ BCLib - The End  BiomeSource (5875c7d8)
 [15:24:38] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
 [15:25:48] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -18687.500000, 111.605172, -4599.500000]
 [15:26:07] [Server thread/INFO]: Locating element minecraft:end_city took 256 ms
+[15:29:56] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[15:30:56] [Server thread/INFO]: Pikel_03 has reached the goal [Sky's the Limit]
+[15:37:26] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[15:37:37] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[15:42:21] [Server thread/INFO]: Pikel_03 has made the advancement [Remote Getaway]
+[15:42:48] [Server thread/INFO]: [Pikel_03: Applied enchantment Unbreaking III to Pikel_03's item]
+[15:42:52] [Server thread/INFO]: [Pikel_03: Applied enchantment Mending to Pikel_03's item]
+[15:43:00] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed

@@ -4839,6 +4839,7 @@
       "got_netherite": "2025-06-02 14:53:20 +0000",
       "got_leather": "2025-06-02 14:37:15 +0000",
       "got_plate": "2025-06-02 02:23:34 +0000",
+      "got_aeternium": "2025-06-02 15:30:47 +0000",
       "got_handle": "2025-06-02 14:38:54 +0000",
       "got_terminite": "2025-06-02 02:24:01 +0000",
       "got_thallasium": "2025-06-02 02:47:09 +0000"
@@ -5313,6 +5314,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/armored_elytra": {
+    "criteria": {
+      "has_item.minecraft.elytra": "2025-06-02 15:30:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/violecite_button": {
     "criteria": {
       "has_violecite": "2025-06-02 15:13:28 +0000"
@@ -5328,6 +5335,12 @@
   "betterend:recipes/misc/violecite_stairs": {
     "criteria": {
       "has_violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/crystalite_elytra": {
+    "criteria": {
+      "has_item.minecraft.elytra": "2025-06-02 15:30:56 +0000"
     },
     "done": true
   },
@@ -5505,15 +5518,33 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-02 15:42:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/violecite_pressure_plate": {
     "criteria": {
       "has_violecite": "2025-06-02 15:13:28 +0000"
     },
     "done": true
   },
+  "betterend:all_elytras": {
+    "criteria": {
+      "vanilla": "2025-06-02 15:30:56 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/misc/violecite_bricks_stonecutting": {
     "criteria": {
       "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-02 15:30:56 +0000"
     },
     "done": true
   },
