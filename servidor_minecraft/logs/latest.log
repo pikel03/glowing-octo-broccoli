@@ -49,3 +49,94 @@
 [00:14:24] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/81964, l='ServerLevel[world]', x=102.02, y=64.00, z=148.62] at TeleportTarget{pitch=-2.5092013, position=(0.5, 76.0, 23.618549608291147), velocity=(0.0, -0.0784000015258789, 0.0), yaw=42.067993}
 [00:17:54] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/83375, l='ServerLevel[world]', x=101.74, y=64.00, z=149.12] at TeleportTarget{pitch=12.645145, position=(0.5, 76.0, 24.115600343534), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-154.12482}
 [00:18:00] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
+[00:19:27] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[00:19:31] [Server thread/INFO]: ziKoc was doomed to fall by Piglin Brute
+[00:19:31] [Server thread/INFO]: Created new backpack backup file for ziKoc with unique ID travelersbackpack.spider_02.06.2025-00.19.31.dat
+[00:19:31] [Server thread/INFO]: [STDOUT]: Player class_3222['ziKoc'/81964, l='ServerLevel[world]', x=180.60, y=51.00, z=116.01] died. Death ID: 0
+[00:19:33] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[00:19:33] [Server thread/INFO]: ziKoc left the game
+[00:20:01] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/83375, l='ServerLevel[world]', x=101.76, y=64.00, z=148.70] at TeleportTarget{pitch=22.611382, position=(0.5, 76.0, 23.6972705424821), velocity=(0.010305265579703057, -0.0784000015258789, -0.009846937998731046), yaw=62.738445}
+[00:20:03] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/64225, l='ServerLevel[world]', x=102.37, y=63.00, z=149.70] at TeleportTarget{pitch=7.678613, position=(0.5, 75.0, 24.699996948242188), velocity=(0.0, -0.0784000015258789, 0.0), yaw=146.55145}
+[00:20:48] [Server thread/INFO]: ziKoc[/127.59.215.201:58865] logged in with entity id 106127 at (180.57296218243684, 51.0, 115.98535145195052)
+[00:20:48] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:20:48] [Server thread/INFO]: Loading config from file...
+[00:20:48] [Server thread/INFO]: ziKoc joined the game
+[00:20:48] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:20:51] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:20:51] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:20:51] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:20:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:20:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:20:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:20:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:20:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:20:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:20:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:20:51] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:20:55] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:20:55] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[00:21:00] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[00:21:09] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 180.500000, 51.500000, 115.500000]
+[00:21:12] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[00:21:12] [Server thread/INFO]: ziKoc left the game
+[00:22:08] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[00:22:38] [Server thread/INFO]: ziKoc[/127.59.215.201:42979] logged in with entity id 106709 at (180.5, 51.03584062504456, 115.5)
+[00:22:38] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:22:38] [Server thread/INFO]: Loading config from file...
+[00:22:38] [Server thread/INFO]: ziKoc joined the game
+[00:22:38] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:22:41] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:22:41] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:22:41] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:22:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:22:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:22:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:22:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:22:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:22:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:22:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:22:41] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:22:47] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[00:22:47] [Server thread/INFO]: ziKoc left the game
+[00:23:11] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[00:24:15] [Server thread/INFO]: ziKoc[/127.59.215.201:45313] logged in with entity id 106948 at (180.5, 51.0, 115.5)
+[00:24:15] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:24:15] [Server thread/INFO]: Loading config from file...
+[00:24:15] [Server thread/INFO]: ziKoc joined the game
+[00:24:15] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:24:17] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:24:17] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:24:17] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:24:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:24:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:24:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:24:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:24:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:24:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:24:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:24:17] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:24:18] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[00:24:18] [Server thread/INFO]: ziKoc left the game
+[00:25:54] [Server thread/INFO]: ziKoc[/127.59.215.201:46467] logged in with entity id 107134 at (180.5, 51.0, 115.5)
+[00:25:54] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:25:54] [Server thread/INFO]: Loading config from file...
+[00:25:54] [Server thread/INFO]: ziKoc joined the game
+[00:25:54] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:25:55] [Server thread/INFO]: [DinokoMC: Teleported ziKoc to DinokoMC]
+[00:25:57] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:25:57] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:25:57] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:25:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:25:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:25:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:25:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:25:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:25:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:25:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:25:57] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:26:17] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[00:26:17] [Server thread/INFO]: ziKoc left the game
+[00:26:24] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[00:26:24] [Server thread/INFO]: DinokoMC left the game
+[00:28:33] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[00:28:33] [Server thread/INFO]: Pikel_03 left the game
