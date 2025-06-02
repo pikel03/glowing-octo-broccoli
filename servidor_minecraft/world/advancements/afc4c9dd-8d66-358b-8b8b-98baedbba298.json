@@ -5312,9 +5312,45 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/violecite_button": {
+    "criteria": {
+      "has_violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_stairs": {
+    "criteria": {
+      "has_violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_slab": {
+    "criteria": {
+      "has_umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_pillar_stonecutting": {
+    "criteria": {
+      "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aeternium_hoe_head": {
     "criteria": {
       "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_slab": {
+    "criteria": {
+      "has_violecite": "2025-06-02 15:13:28 +0000"
     },
     "done": true
   },
@@ -5324,9 +5360,75 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/violecite_furnace": {
+    "criteria": {
+      "has_violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_brick_stair_stonecutting": {
+    "criteria": {
+      "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_button": {
+    "criteria": {
+      "has_umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_bricks_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_tiles_stonecutting": {
+    "criteria": {
+      "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_brick_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aeternium_pickaxe_head": {
     "criteria": {
       "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_wall": {
+    "criteria": {
+      "has_umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_bricks": {
+    "criteria": {
+      "has_violecite": "2025-06-02 15:13:28 +0000"
     },
     "done": true
   },
@@ -5336,9 +5438,87 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_tiles_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_pillar_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_stairs": {
+    "criteria": {
+      "has_umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_pressure_plate": {
+    "criteria": {
+      "has_violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_bricks_stonecutting": {
+    "criteria": {
+      "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_wall": {
+    "criteria": {
+      "has_violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_furnace": {
+    "criteria": {
+      "has_umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/neon_cactus_block": {
     "criteria": {
       "has_neon_cactus": "2025-06-02 14:36:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_pressure_plate": {
+    "criteria": {
+      "has_umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
     },
     "done": true
   },
@@ -5348,15 +5528,39 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_polished_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aeternium_hammer_head": {
     "criteria": {
       "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_bricks": {
+    "criteria": {
+      "has_umbralith": "2025-06-02 15:10:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aeternium_shovel_head": {
     "criteria": {
       "has_item.betterend.aeternium_ingot": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_polished_stonecutting": {
+    "criteria": {
+      "has_block.betterend.violecite": "2025-06-02 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_stair_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2025-06-02 15:10:21 +0000"
     },
     "done": true
   },
