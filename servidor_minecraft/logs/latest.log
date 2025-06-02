@@ -1,6 +1,6 @@
-[00:31:02] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
-[00:31:02] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[00:31:02] [main/INFO]: Loading 151 mods:
+[14:26:47] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[14:26:47] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[14:26:47] [main/INFO]: Loading 152 mods:
 	- accessories 1.0.0-beta.47+1.20.1
 	   |-- io_wispforest_endec 0.1.8
 	   |-- io_wispforest_endec_gson 0.1.5
@@ -142,22 +142,14 @@
 	- pickupnotifier 8.0.0
 	- puzzleslib 8.1.24
 	- rightclickharvest 3.2.3+1.19.x-1.20.1-fabric
+	- skin_changer 0.6.6
 	- skinlayers3d 1.6.7
 	- skinshuffle 2.2.2+1.20.1
 	   |-- com_konghq_unirest-java_standalone 3.11.9
 	   |-- commons-validator_commons-validator 1.7
 	   |-- org_jsoup_jsoup 1.16.1
 	   |-- org_mineskin_java-client 1.2.4-SNAPSHOT
-	   |-- spruceui 5.0.0+1.20
-	   \-- yet_another_config_lib_v3 3.5.0+1.20.1-fabric
-	        |-- com_twelvemonkeys_common_common-image 3.10.0
-	        |-- com_twelvemonkeys_common_common-io 3.10.0
-	        |-- com_twelvemonkeys_common_common-lang 3.10.0
-	        |-- com_twelvemonkeys_imageio_imageio-core 3.10.0
-	        |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0
-	        |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
-	        |-- org_quiltmc_parsers_gson 0.2.1
-	        \-- org_quiltmc_parsers_json 0.2.1
+	   \-- spruceui 5.0.0+1.20
 	- threadtweak 1.20.2-0.1.1
 	- toggleableitemframes 5.1.0-1.20.1
 	- travelersbackpack 9.1.36
@@ -167,255 +159,673 @@
 	- unwrecked_ships_plus 2.0.5
 	- vmp 0.2.0+beta.7.102
 	- wabi_sabi_structures 2.0.0-1.20
+	- yet_another_config_lib_v3 3.6.6+1.20.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- mixinextras 0.4.1
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
 	- yungsapi 1.20-Fabric-4.0.6
 	   \-- org_javassist_javassist 3.29.2-GA
-[00:31:03] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/glowing-octo-broccoli/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:31:03] [main/INFO]: Compatibility level set to JAVA_17
-[00:31:03] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:31:03] [main/WARN]: Reference map 'formationsnether.mixins.refmap.json' for formationsnether.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:31:03] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:31:03] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
-[00:31:03] [main/INFO]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 61 options available, 1 override(s) found
-[00:31:03] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
-[00:31:03] [main/INFO]: Applying Nashorn fix
-[00:31:03] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
-[00:31:03] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
-[00:31:03] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
-[00:31:03] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
-[00:31:03] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found cavedust.mixins.json:ClientWorldAccessor from mod cavedust
-[00:31:03] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
-[00:31:03] [main/WARN]: @Mixin target net.minecraft.class_340 was not found cavedust.mixins.json:MixinDebugScreenOverlay from mod cavedust
-[00:31:04] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[00:31:04] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [vmp]) disables it and children
-[00:31:04] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[00:31:04] [main/WARN]: Error loading class: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor (java.lang.ClassNotFoundException: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor)
-[00:31:04] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:31:04] [main/INFO]: ThreadTweak config initialized
-[00:31:06] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zza000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[00:31:06] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[00:31:06] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[00:31:06] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[00:31:08] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zzl000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[00:31:09] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[00:31:09] [main/INFO]: Vanilla bootstrap took 4216 milliseconds
-[00:31:09] [main/INFO]: Registering Listeners!
-[00:31:09] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
-[00:31:09] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
-[00:31:09] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
-[00:31:10] [main/INFO]: [bclib] Added Config betterend.entities to auto sync (file hash)
-[00:31:10] [main/INFO]: [bclib] Added Config betterend.blocks to auto sync (file hash)
-[00:31:10] [main/INFO]: [bclib] Added Config betterend.items to auto sync (file hash)
-[00:31:10] [main/INFO]: [bclib] Added Config betterend.biomes to auto sync (file hash)
-[00:31:10] [main/INFO]: [bclib] Added Config betterend.recipes to auto sync (file hash)
-[00:31:10] [main/INFO]: [bclib] Added Config betterend.enchantments to auto sync (file hash)
-[00:31:10] [main/INFO]: Reflections took 39 ms to scan 1 urls, producing 1 keys and 2 values
-[00:31:10] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[00:31:10] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
-[00:31:10] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[00:31:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[00:31:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[00:31:10] [main/INFO]: Cactus Config is being initialized.
-[00:31:10] [main/INFO]: Loading Collective version 7.84.
-[00:31:10] [main/INFO]: general
-[00:31:10] [main/INFO]: individual
-[00:31:10] [main/INFO]: Constructing common components for easyshulkerboxes:main
-[00:31:11] [main/INFO]: Horse Buff Initialized
-[00:31:11] [main/INFO]: [jamlib] Mod initialized!
-[00:31:11] [main/INFO]: Initialize mod Library Ferret
-[00:31:11] [main/INFO]: Initialized mod Library Ferret
-[00:31:11] [main/INFO]: Loading Noisium.
-[00:31:11] [main/INFO]: forge?
-[00:31:11] [main/INFO]: Constructing common components for pickupnotifier:main
-[00:31:11] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
-[00:31:11] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
-[00:31:11] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
-[00:31:11] [main/INFO]: Constructing common components for puzzlesapi:statues
-[00:31:11] [main/INFO]: Constructing common components for puzzleslib:main
-[00:31:11] [main/INFO]: [rightclickharvest] Initializing VersionUtils
-[00:31:11] [main/INFO]: [rightclickharvest] VersionUtils initialized successfully
-[00:31:11] [main/INFO]: [jamlib] Registered config for rightclickharvest
-[00:31:11] [main/INFO]: [rightclickharvest] Mod initialized!
-[00:31:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[00:31:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[00:31:12] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[00:31:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[00:31:12] [main/INFO]: Wabi-Sabi Structures initialized
-[00:31:12] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 4 values
-[00:31:12] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 4 values
-[00:31:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:31:12] [main/INFO]: Bypassed Mojang DFU
-[00:31:12] [main/INFO]: [DataFixerAPI] Applying Patch{bclib:3.0.11:12582923}
-[00:31:12] [main/INFO]: [bclib] Running Pre Patchers on ./world/.
-[00:31:12] [main/WARN]: [bclib] Applying Fixes on Level
-[00:31:12] [main/INFO]: [bclib] Patcher Stage... Reading Data%
-[00:31:12] [main/INFO]: [bclib] Patcher Stage... Fixing Players%
-[00:31:12] [main/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/afc4c9dd-8d66-358b-8b8b-98baedbba298.dat
-[00:31:12] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/f0c00d82-0d58-3b89-af0b-9c6838e550a1.dat
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/1aeaa7cc-6376-3256-be3e-ab68b32c3bc6.dat
-[00:31:12] [main/INFO]: [bclib] Patcher Stage... Applying Patches to level.dat%
-[00:31:12] [main/INFO]: [DataFixerAPI] Inspecting level.dat in ./world/.
-[00:31:12] [main/INFO]: [bclib] Patcher Stage... Patching Custom World-Data%
-[00:31:12] [main/INFO]: [bclib] Patcher Stage... Repairing all Regions%
-[00:31:12] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-3.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.0.0.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.0.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.0.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-2.-1.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-1.-2.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.0.-1.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-2.0.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-1.0.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-3.-2.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-2.0.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-1.0.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-3.-2.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-2.-2.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-3.-1.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-1.-1.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.0.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.-1.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.1.0.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.2.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.-3.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.1.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.-2.mca
-[00:31:12] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.0.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.0.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.-2.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.-3.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.-3.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.1.1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.1.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.0.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.0.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.-2.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.2.-1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.1.1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.2.1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.-1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.-1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.1.-1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.0.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.-1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.1.0.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.2.0.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-2.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-3.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-2.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-3.0.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-3.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-1.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.1.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.0.0.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-2.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.1.0.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-1.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.0.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-2.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.1.0.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-3.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.0.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.-1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-2.0.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-2.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.1.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.1.mca
-[00:31:13] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-2.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-2.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.0.mca
-[00:31:13] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-2.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-1/INFO]: [bclib] Patching... 80%
-[00:31:14] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-1.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.0.mca
-[00:31:14] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-3.0.mca
-[00:31:14] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-3.-1.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-2.mca
-[00:31:14] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.-1.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.2.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-3.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.1.mca
-[00:31:14] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.1.-1.mca
-[00:31:14] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.0.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.-1.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.1.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.0.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.1.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-1.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-1.mca
-[00:31:14] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-1.mca
-[00:31:14] [main/INFO]: [bclib] Patcher Stage... Saving Patch State%
-[00:31:14] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'bclib' from 0.0.0 to 3.0.11
-[00:31:15] [main/INFO]: [bclib] Did not manage biome betterend:empty_aurora_cave
-[00:31:15] [main/INFO]: [bclib] Did not manage biome betterend:empty_end_cave
-[00:31:15] [main/INFO]: [bclib] Did not manage biome betterend:empty_smaragdant_cave
-[00:31:15] [main/INFO]: [bclib] Did not manage biome betterend:jade_cave
-[00:31:15] [main/INFO]: [bclib] Did not manage biome betterend:lush_aurora_cave
-[00:31:15] [main/INFO]: [bclib] Did not manage biome betterend:lush_smaragdant_cave
-[00:31:15] [main/INFO]: [bclib] Did not manage biome betterend:megalake_grove
-[00:31:15] [main/INFO]: [bclib] Did not manage biome betterend:neon_oasis
-[00:31:15] [main/INFO]: [bclib] Did not manage biome betterend:painted_mountains
-[00:31:15] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[00:31:15] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (43633d7)
-[00:31:15] [main/INFO]: [bclib] Unable to build Biome List yet
-[00:31:15] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[00:31:15] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[00:31:15] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[00:31:15] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (3a4aebbf)
-[00:31:15] [main/INFO]: [bclib] Unable to build Biome List yet
-[00:31:15] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (4211f7fa)
-[00:31:15] [main/INFO]: [bclib] Unable to build Biome List yet
-[00:31:15] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[00:31:15] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[00:31:15] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[00:31:15] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (1a391e17)
-[00:31:15] [main/INFO]: [bclib] Unable to build Biome List yet
-[00:31:15] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (7795c334)
-[00:31:15] [main/INFO]: [bclib] Unable to build Biome List yet
-[00:31:15] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[00:31:15] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[00:31:15] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[00:31:15] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (b756087)
-[00:31:15] [main/INFO]: [bclib] Unable to build Biome List yet
-[00:31:15] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (a2a77bb)
-[00:31:15] [main/INFO]: [bclib] Unable to build Biome List yet
-[00:31:15] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[00:31:15] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[00:31:15] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[00:31:15] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (712fe8ed)
-[00:31:15] [main/INFO]: [bclib] Unable to build Biome List yet
-[00:31:16] [main/WARN]: [bclib] No valid BCLBiome Registry available!
-[00:31:16] [main/WARN]: [bclib] No valid Biome Registry available!
-[00:31:16] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[00:31:16] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (144677f2)
-[00:31:16] [main/INFO]: [bclib] Unable to build Biome List yet
-[00:31:16] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (3f1ba4d6)
-[00:31:16] [main/INFO]: [bclib] Unable to build Biome List yet
-[00:31:16] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[00:31:16] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[00:31:16] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[00:31:17] [main/INFO]: [bclib] Disabling Recipe: bclib:test_star
-[00:31:17] [main/ERROR]: Parsing error loading recipe betterend:guide_book
+[14:26:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/glowing-octo-broccoli/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:26:48] [main/INFO]: Compatibility level set to JAVA_17
+[14:26:48] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:26:48] [main/WARN]: Reference map 'formationsnether.mixins.refmap.json' for formationsnether.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:26:48] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:26:48] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[14:26:48] [main/INFO]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 61 options available, 1 override(s) found
+[14:26:48] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
+[14:26:48] [main/INFO]: Applying Nashorn fix
+[14:26:48] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
+[14:26:48] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[14:26:48] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
+[14:26:49] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[14:26:49] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found cavedust.mixins.json:ClientWorldAccessor from mod cavedust
+[14:26:49] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[14:26:49] [main/WARN]: @Mixin target net.minecraft.class_340 was not found cavedust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[14:26:49] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[14:26:49] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [vmp]) disables it and children
+[14:26:49] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[14:26:49] [main/WARN]: Error loading class: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor (java.lang.ClassNotFoundException: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor)
+[14:26:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:26:49] [main/INFO]: ThreadTweak config initialized
+[14:26:51] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zza000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[14:26:52] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[14:26:52] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[14:26:52] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[14:26:53] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zzl000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[14:26:54] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[14:26:54] [main/INFO]: Vanilla bootstrap took 4423 milliseconds
+[14:26:55] [main/INFO]: Registering Listeners!
+[14:26:55] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
+[14:26:55] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
+[14:26:55] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
+[14:26:55] [main/INFO]: [bclib] Added Config betterend.entities to auto sync (file hash)
+[14:26:55] [main/INFO]: [bclib] Added Config betterend.blocks to auto sync (file hash)
+[14:26:55] [main/INFO]: [bclib] Added Config betterend.items to auto sync (file hash)
+[14:26:55] [main/INFO]: [bclib] Added Config betterend.biomes to auto sync (file hash)
+[14:26:55] [main/INFO]: [bclib] Added Config betterend.recipes to auto sync (file hash)
+[14:26:55] [main/INFO]: [bclib] Added Config betterend.enchantments to auto sync (file hash)
+[14:26:56] [main/INFO]: Reflections took 38 ms to scan 1 urls, producing 1 keys and 2 values
+[14:26:56] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[14:26:56] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[14:26:56] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[14:26:56] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[14:26:56] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[14:26:56] [main/INFO]: Cactus Config is being initialized.
+[14:26:56] [main/INFO]: Loading Collective version 7.84.
+[14:26:56] [main/INFO]: general
+[14:26:56] [main/INFO]: individual
+[14:26:56] [main/INFO]: Constructing common components for easyshulkerboxes:main
+[14:26:56] [main/INFO]: Horse Buff Initialized
+[14:26:56] [main/INFO]: [jamlib] Mod initialized!
+[14:26:56] [main/INFO]: Initialize mod Library Ferret
+[14:26:56] [main/INFO]: Initialized mod Library Ferret
+[14:26:56] [main/INFO]: Loading Noisium.
+[14:26:56] [main/INFO]: chyz: How could you do this to me, Blod. I loved you like a guy I don't know in real life :(
+[14:26:57] [main/INFO]: Constructing common components for pickupnotifier:main
+[14:26:57] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
+[14:26:57] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
+[14:26:57] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
+[14:26:57] [main/INFO]: Constructing common components for puzzlesapi:statues
+[14:26:57] [main/INFO]: Constructing common components for puzzleslib:main
+[14:26:57] [main/INFO]: [rightclickharvest] Initializing VersionUtils
+[14:26:57] [main/INFO]: [rightclickharvest] VersionUtils initialized successfully
+[14:26:57] [main/INFO]: [jamlib] Registered config for rightclickharvest
+[14:26:57] [main/INFO]: [rightclickharvest] Mod initialized!
+[14:26:57] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[14:26:57] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[14:26:57] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[14:26:57] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[14:26:57] [main/INFO]: Wabi-Sabi Structures initialized
+[14:26:57] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 4 values
+[14:26:57] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
+[14:26:57] [main/INFO]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
+[14:26:57] [main/INFO]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[14:26:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:26:57] [main/INFO]: Bypassed Mojang DFU
+[14:26:57] [main/INFO]: [DataFixerAPI] Applying Patch{bclib:3.0.11:12582923}
+[14:26:57] [main/INFO]: [bclib] Running Pre Patchers on ./world/.
+[14:26:57] [main/WARN]: [bclib] Applying Fixes on Level
+[14:26:57] [main/INFO]: [bclib] Patcher Stage... Reading Data%
+[14:26:57] [main/INFO]: [bclib] Patcher Stage... Fixing Players%
+[14:26:57] [main/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/afc4c9dd-8d66-358b-8b8b-98baedbba298.dat
+[14:26:57] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/f0c00d82-0d58-3b89-af0b-9c6838e550a1.dat
+[14:26:57] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/1aeaa7cc-6376-3256-be3e-ab68b32c3bc6.dat
+[14:26:58] [main/INFO]: [bclib] Patcher Stage... Applying Patches to level.dat%
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting level.dat in ./world/.
+[14:26:58] [main/INFO]: [bclib] Patcher Stage... Patching Custom World-Data%
+[14:26:58] [main/INFO]: [bclib] Patcher Stage... Repairing all Regions%
+[14:26:58] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.8.mca
+[14:26:58] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.0.mca
+[14:26:58] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.-5.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.9.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.0.7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-5.1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-4.-5.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.2.6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.5.2.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.-7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.2.9.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.3.3.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.-7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-7.6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.0.8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.2.7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.0.-1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-6.3.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.4.4.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.-4.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.-8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.0.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-6.6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-5.5.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.10.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.-5.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.9.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-4.9.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-4.8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-5.0.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.3.4.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.-5.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.2.5.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.6.3.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.0.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.3.9.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.10.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.8.2.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.1.8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-4.7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.7.3.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.-8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.7.2.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.2.3.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.-2.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.4.6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.6.2.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.4.5.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.4.9.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-5.8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-4.1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-5.6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.-6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.3.8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.5.1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.1.9.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.5.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.-6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.-4.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.3.7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-5.3.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-6.4.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-6.8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-5.2.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.6.1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.0.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.-1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.4.2.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-5.7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.-1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.7.1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.0.10.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.3.6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-7.5.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-4.0.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-4.6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-6.5.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.0.0.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.-1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.-6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.9.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-4.2.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-5.4.mca
+[14:26:58] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.0.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-4.-6.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.4.8.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.4.3.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.4.7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-6.7.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.-3.mca
+[14:26:58] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.-1.mca
+[14:26:58] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.1.mca
+[14:26:58] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.1.mca
+[14:26:58] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.0.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.-1.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.4.9.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.2.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.4.mca
+[14:26:58] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.8.mca
+[14:26:58] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.-6.mca
+[14:26:58] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.4.mca
+[14:26:59] [ForkJoinPool.commonPool-worker-1/INFO]: [bclib] Patching... 22%
+[14:26:59] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-4.mca
+[14:26:59] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.1.mca
+[14:26:59] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.2.mca
+[14:26:59] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.0.mca
+[14:26:59] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.-5.mca
+[14:26:59] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.9.mca
+[14:26:59] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.-5.mca
+[14:26:59] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.6.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.0.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.5.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.2.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.6.3.mca
+[14:27:00] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.-6.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-2.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-3/INFO]: [bclib] Patching... 25%
+[14:27:00] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.2.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.0.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.4.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.1.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-2.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-4.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-2.mca
+[14:27:00] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.5.mca
+[14:27:00] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.-2.mca
+[14:27:00] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.8.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.9.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.-6.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.-6.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.6.0.mca
+[14:27:00] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.10.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.6.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.5.1.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.9.mca
+[14:27:01] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.4.8.mca
+[14:27:01] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-3.mca
+[14:27:01] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.4.0.mca
+[14:27:01] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.8.2.mca
+[14:27:01] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.5.4.mca
+[14:27:01] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.-3.mca
+[14:27:01] [main/INFO]: [bclib] Patching... 29%
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.2.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.5.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.-6.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.0.9.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.1.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.2.8.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.5.3.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-3.6.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.8.1.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.2.4.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-7.7.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.-2.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-1.-7.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.3.5.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.1.7.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/poi/r.-2.-5.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.7.mca
+[14:27:01] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.8.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.0.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-6.6.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.5.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.10.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.-5.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.-4.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.9.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-4.9.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-4.8.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.-5.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.0.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.3.4.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.-5.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.-5.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.6.3.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.0.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.3.9.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.10.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.8.2.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.1.8.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.1.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-4.7.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.-6.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.7.3.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.7.2.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-6.1.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.-2.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.4.6.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.7.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.6.2.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.4.5.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.7.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.-3.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.8.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-4.1.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.6.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.-6.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.3.8.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.1.9.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.-2.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.3.7.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.1.1.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.-1.mca
+[14:27:01] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.-1.mca
+[14:27:01] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.4.3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.1.-1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.0.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.1.0.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.-3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.-2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-4.-3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-4.-1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.0.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.0.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.-2.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.-3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.-3.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.4.7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-4.-2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.0.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.-1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.-6.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.9.mca
+[14:27:02] [main/INFO]: [bclib] Patching... 47%
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-4.2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.4.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.-6.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-4.-6.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.-3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.4.3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.4.7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-6.7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.8.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.9.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-4.-5.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.5.2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.-7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.2.9.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.3.3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.-7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.-7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-7.6.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.8.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.2.7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.-1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.8.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-6.3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-4.-1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.4.4.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.-4.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.3.2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.9.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.2.8.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.5.3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.6.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.8.1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-7.7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.-2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.-7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.3.5.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-2.-5.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.-4.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.3.7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-6.4.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-6.8.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.6.1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.0.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-3.-1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.4.2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-5.7.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.-1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.7.1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.10.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.3.6.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-6.2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.8.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-4.0.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-4.6.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-6.5.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-2.-2.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.8.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-3.-1.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-1.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.-2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.0.0.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.3.7.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.2.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.1.1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.2.1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.1.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.0.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-2.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.1.0.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.-3.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-6.7.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.2.0.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.-2.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-4.-3.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-1.-2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.0.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-4.-1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.0.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.1.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.0.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.-2.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.-2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-2.0.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-1.0.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-3.-2.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.8.mca
+[14:27:02] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-2.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.-3.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-4.-2.mca
+[14:27:02] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.5.6.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.-6.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.9.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.2.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.8.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.5.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.5.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.7.3.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-1/INFO]: [bclib] Patching... 68%
+[14:27:03] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.-6.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.9.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.-8.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.-4.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.7.2.mca
+[14:27:03] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.7.mca
+[14:27:03] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.9.mca
+[14:27:04] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.-1.mca
+[14:27:04] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.1.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.3.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.0.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.7.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.1.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-6.1.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.1.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.3.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.-2.mca
+[14:27:04] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.1.mca
+[14:27:04] [main/INFO]: [bclib] Patching... 71%
+[14:27:04] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-1.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.-5.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.8.mca
+[14:27:04] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.4.6.mca
+[14:27:05] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-1.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.7.5.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.6.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.5.2.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.5.3.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.6.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.-7.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.6.5.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.7.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-1/INFO]: [bclib] Patching... 74%
+[14:27:05] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.10.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.8.1.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.9.mca
+[14:27:05] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-1.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.4.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-7.7.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.6.2.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.-2.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.6.4.mca
+[14:27:05] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.3.mca
+[14:27:05] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.0.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.4.5.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.-7.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.-7.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.0.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-6.8.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.7.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.-1.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.2.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.5.mca
+[14:27:06] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-1.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-3/INFO]: [bclib] Patching... 78%
+[14:27:06] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.-7.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-7.6.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.-8.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.1.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.6.1.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.0.mca
+[14:27:06] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.7.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.8.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.-5.mca
+[14:27:07] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.0.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.-4.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.7.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.8.3.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.7.4.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.5.0.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.2.1.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.5.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.-1.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.2.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.7.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.-1.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-2/INFO]: [bclib] Patching... 82%
+[14:27:07] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.4.2.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.8.mca
+[14:27:07] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.2.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.3.mca
+[14:27:07] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-3.mca
+[14:27:07] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.7.mca
+[14:27:08] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.1.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-6.3.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-6.4.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.-1.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.4.4.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.-1.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-2.-2.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.-4.mca
+[14:27:08] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.0.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.7.1.mca
+[14:27:08] [main/INFO]: [bclib] Patching... 85%
+[14:27:08] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-2.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.2.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.1.1.mca
+[14:27:08] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-3.0.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.-8.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-3.-1.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.7.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.-1.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.10.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.-1.mca
+[14:27:09] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-3.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.-4.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.-4.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.4.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.0.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.3.6.mca
+[14:27:09] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.7.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.10.mca
+[14:27:09] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.2.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-6.6.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.1.-1.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-2/INFO]: [bclib] Patching... 89%
+[14:27:09] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-6.2.mca
+[14:27:09] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-1.mca
+[14:27:09] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.0.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-7.5.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.8.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.5.5.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-5.5.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-2.-1.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.0.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.10.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.1.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.-5.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.7.0.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.6.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.4.1.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-6.5.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-3/INFO]: [bclib] Patching... 93%
+[14:27:10] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.-4.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.1.0.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.1.3.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-2.2.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-3.9.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.1.mca
+[14:27:10] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.-2.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.-8.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.-1.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.9.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.-7.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-4.8.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-2.0.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.1.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.0.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.-2.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-3.-2.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [bclib] Patching... 97%
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-2.-2.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-3.0.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-3.-1.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-1.-1.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.1.-1.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.0.0.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-2.-1.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.1.0.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.0.1.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-1.-2.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.0.-1.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-2.0.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-1.0.mca
+[14:27:11] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-3.-2.mca
+[14:27:11] [main/INFO]: [bclib] Patcher Stage... Saving Patch State%
+[14:27:11] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'bclib' from 0.0.0 to 3.0.11
+[14:27:11] [main/INFO]: [bclib] Did not manage biome betterend:empty_aurora_cave
+[14:27:11] [main/INFO]: [bclib] Did not manage biome betterend:empty_end_cave
+[14:27:11] [main/INFO]: [bclib] Did not manage biome betterend:empty_smaragdant_cave
+[14:27:11] [main/INFO]: [bclib] Did not manage biome betterend:jade_cave
+[14:27:12] [main/INFO]: [bclib] Did not manage biome betterend:lush_aurora_cave
+[14:27:12] [main/INFO]: [bclib] Did not manage biome betterend:lush_smaragdant_cave
+[14:27:12] [main/INFO]: [bclib] Did not manage biome betterend:megalake_grove
+[14:27:12] [main/INFO]: [bclib] Did not manage biome betterend:neon_oasis
+[14:27:12] [main/INFO]: [bclib] Did not manage biome betterend:painted_mountains
+[14:27:12] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[14:27:12] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (29616e01)
+[14:27:12] [main/INFO]: [bclib] Unable to build Biome List yet
+[14:27:12] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[14:27:12] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[14:27:12] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[14:27:12] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (5e70a93d)
+[14:27:12] [main/INFO]: [bclib] Unable to build Biome List yet
+[14:27:12] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (53975aa5)
+[14:27:12] [main/INFO]: [bclib] Unable to build Biome List yet
+[14:27:12] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[14:27:12] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[14:27:12] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[14:27:12] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (76298ffa)
+[14:27:12] [main/INFO]: [bclib] Unable to build Biome List yet
+[14:27:12] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (6b77ff13)
+[14:27:12] [main/INFO]: [bclib] Unable to build Biome List yet
+[14:27:12] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[14:27:12] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[14:27:12] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[14:27:12] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (50b5ca57)
+[14:27:12] [main/INFO]: [bclib] Unable to build Biome List yet
+[14:27:12] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (5dfb0ad3)
+[14:27:12] [main/INFO]: [bclib] Unable to build Biome List yet
+[14:27:12] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[14:27:12] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[14:27:12] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[14:27:12] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (518f8a80)
+[14:27:12] [main/INFO]: [bclib] Unable to build Biome List yet
+[14:27:13] [main/WARN]: [bclib] No valid BCLBiome Registry available!
+[14:27:13] [main/WARN]: [bclib] No valid Biome Registry available!
+[14:27:13] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[14:27:13] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (734aaaa4)
+[14:27:13] [main/INFO]: [bclib] Unable to build Biome List yet
+[14:27:13] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (5875c7d8)
+[14:27:13] [main/INFO]: [bclib] Unable to build Biome List yet
+[14:27:13] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[14:27:13] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[14:27:13] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[14:27:14] [main/INFO]: [bclib] Disabling Recipe: bclib:test_star
+[14:27:14] [main/ERROR]: Parsing error loading recipe betterend:guide_book
 com.google.gson.JsonSyntaxException: Unknown item 'betterend:guidebook'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -438,675 +848,175 @@ com.google.gson.JsonSyntaxException: Unknown item 'betterend:guidebook'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[00:31:17] [main/INFO]: Loaded 10 recipes
-[00:31:17] [main/INFO]: Loaded 2340 advancements
-[00:31:17] [main/ERROR]: [worlds_together] Unable to parse Version in jar:file:///workspaces/glowing-octo-broccoli/servidor_minecraft/mods/dungeons-and-taverns-3.0.3.f.jar
-[00:31:17] [main/ERROR]: [worlds_together] Error for file:///workspaces/glowing-octo-broccoli/servidor_minecraft/mods/msx.py: java.nio.file.ProviderNotFoundException: Provider not found
-[00:31:17] [main/INFO]: [STDERR]: java.nio.file.ProviderNotFoundException: Provider not found
-[00:31:17] [main/INFO]: [STDERR]: 	at java.base/java.nio.file.FileSystems.newFileSystem(FileSystems.java:545)
-[00:31:17] [main/INFO]: [STDERR]: 	at java.base/java.nio.file.FileSystems.newFileSystem(FileSystems.java:475)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.ModUtil.accept(ModUtil.java:363)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.PathUtil.fileWalker(PathUtil.java:72)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.ModUtil.getMods(ModUtil.java:50)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.ModUtil.getModInfo(ModUtil.java:250)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.ModUtil.getModVersionFromJar(ModUtil.java:282)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.ModUtil.getModVersion(ModUtil.java:272)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.world.WorldConfig.getRootTag(WorldConfig.java:97)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.world.WorldConfig.getCompoundTag(WorldConfig.java:115)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.levelgen.WorldGenUtil.getPresetsNbt(WorldGenUtil.java:85)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.worldPreset.TogetherWorldPreset.loadWorldDimensions(TogetherWorldPreset.java:159)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.levelgen.BiomeRepairHelper.repairBiomeSourceInAllDimensions(BiomeRepairHelper.java:31)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.levelgen.WorldGenUtil.repairBiomeSourceInAllDimensions(WorldGenUtil.java:128)
-[00:31:17] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.world.event.WorldBootstrap.enforceInLayeredRegistry(WorldBootstrap.java:327)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.minecraft.class_6904.localvar$zdo000$bclib$wt_bake(class_6904.java:517)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.minecraft.class_6904.<init>(class_6904.java:7)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.minecraft.class_7237.method_42097(class_7237.java:58)
-[00:31:17] [main/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
-[00:31:17] [main/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.minecraft.class_156.method_43498(class_156.java:950)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.minecraft.class_156.method_43499(class_156.java:938)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.minecraft.server.Main.main(Main.java:160)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69)
-[00:31:17] [main/INFO]: [STDERR]: 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69)
-[00:31:17] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (144677f2)
-[00:31:17] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (3f1ba4d6)
-[00:31:17] [main/INFO]: Applied 0 biome modifications to 0 of 89 new biomes in 1.529 ms
-[00:31:17] [Server thread/INFO]: Loading server config for pickupnotifier
-[00:31:17] [Thread-4/INFO]: Reloading server config for pickupnotifier
-[00:31:17] [Server thread/INFO]: Loading server config for puzzlesapi
-[00:31:17] [Server thread/INFO]: Reading config.
-[00:31:17] [Thread-4/INFO]: Reloading server config for puzzlesapi
-[00:31:17] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:31:17] [Server thread/INFO]: Loading properties
-[00:31:17] [Server thread/INFO]: Default game type: SURVIVAL
-[00:31:17] [Server thread/INFO]: Generating keypair
-[00:31:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:31:18] [Server thread/INFO]: Using epoll channel type
-[00:31:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:31:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:31:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:31:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:31:18] [Server thread/INFO]: Preparing level "world"
-[00:31:18] [Server thread/INFO]: [bclib] 
+[14:27:14] [main/INFO]: Loaded 10 recipes
+[14:27:14] [main/INFO]: Loaded 2340 advancements
+[14:27:14] [main/ERROR]: [worlds_together] Unable to parse Version in jar:file:///workspaces/glowing-octo-broccoli/servidor_minecraft/mods/dungeons-and-taverns-3.0.3.f.jar
+[14:27:14] [main/ERROR]: [worlds_together] Error for file:///workspaces/glowing-octo-broccoli/servidor_minecraft/mods/msx.py: java.nio.file.ProviderNotFoundException: Provider not found
+[14:27:14] [main/INFO]: [STDERR]: java.nio.file.ProviderNotFoundException: Provider not found
+[14:27:14] [main/INFO]: [STDERR]: 	at java.base/java.nio.file.FileSystems.newFileSystem(FileSystems.java:545)
+[14:27:14] [main/INFO]: [STDERR]: 	at java.base/java.nio.file.FileSystems.newFileSystem(FileSystems.java:475)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.ModUtil.accept(ModUtil.java:363)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.PathUtil.fileWalker(PathUtil.java:72)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.ModUtil.getMods(ModUtil.java:50)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.ModUtil.getModInfo(ModUtil.java:250)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.ModUtil.getModVersionFromJar(ModUtil.java:282)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.util.ModUtil.getModVersion(ModUtil.java:272)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.world.WorldConfig.getRootTag(WorldConfig.java:97)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.world.WorldConfig.getCompoundTag(WorldConfig.java:115)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.levelgen.WorldGenUtil.getPresetsNbt(WorldGenUtil.java:85)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.worldPreset.TogetherWorldPreset.loadWorldDimensions(TogetherWorldPreset.java:159)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.levelgen.BiomeRepairHelper.repairBiomeSourceInAllDimensions(BiomeRepairHelper.java:31)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.levelgen.WorldGenUtil.repairBiomeSourceInAllDimensions(WorldGenUtil.java:128)
+[14:27:14] [main/INFO]: [STDERR]: 	at org.betterx.worlds.together.world.event.WorldBootstrap.enforceInLayeredRegistry(WorldBootstrap.java:327)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.minecraft.class_6904.localvar$zdo000$bclib$wt_bake(class_6904.java:517)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.minecraft.class_6904.<init>(class_6904.java:7)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.minecraft.class_7237.method_42097(class_7237.java:58)
+[14:27:14] [main/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+[14:27:14] [main/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.minecraft.class_156.method_43498(class_156.java:950)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.minecraft.class_156.method_43499(class_156.java:938)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.minecraft.server.Main.main(Main.java:160)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69)
+[14:27:14] [main/INFO]: [STDERR]: 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69)
+[14:27:14] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (734aaaa4)
+[14:27:14] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (5875c7d8)
+[14:27:14] [main/INFO]: Applied 0 biome modifications to 0 of 89 new biomes in 1.662 ms
+[14:27:14] [Server thread/INFO]: Loading server config for pickupnotifier
+[14:27:14] [Thread-4/INFO]: Reloading server config for pickupnotifier
+[14:27:14] [Thread-4/INFO]: Reloading server config for pickupnotifier
+[14:27:14] [Server thread/INFO]: Loading server config for puzzlesapi
+[14:27:14] [Thread-4/INFO]: Reloading server config for puzzlesapi
+[14:27:14] [Thread-4/INFO]: Reloading server config for puzzlesapi
+[14:27:14] [Server thread/INFO]: Reading config.
+[14:27:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[14:27:14] [Server thread/INFO]: Loading properties
+[14:27:14] [Server thread/INFO]: Default game type: SURVIVAL
+[14:27:14] [Server thread/INFO]: Generating keypair
+[14:27:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:27:14] [Server thread/INFO]: Using epoll channel type
+[14:27:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:27:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:27:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:27:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:27:15] [Server thread/INFO]: Preparing level "world"
+[14:27:15] [Server thread/INFO]: [bclib] 
 Apply Modifications for minecraft:the_nether
-    BCLib - Nether BiomeSource (144677f2)
+    BCLib - Nether BiomeSource (734aaaa4)
         biomes     = 5
         namespaces = minecraft(5)
         seed       = -4220016009642086521
         height     = 128
         config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
-[00:31:18] [Server thread/INFO]: [bclib] 
+[14:27:15] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:overworld
+    class_4766 (4bb9324d)
+        biomes     = 53
+        namespaces = minecraft(53)
+[14:27:15] [Server thread/INFO]: [bclib] 
 Apply Modifications for minecraft:the_end
-    BCLib - The End  BiomeSource (3f1ba4d6)
+    BCLib - The End  BiomeSource (5875c7d8)
         biomes     = 24
-        namespaces = minecraft(5), betterend(19)
+        namespaces = betterend(19), minecraft(5)
         seed       = -4220016009642086521
         height     = 128
         deciders   = 0
         config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
-[00:31:18] [Server thread/INFO]: [bclib] 
-Apply Modifications for minecraft:overworld
-    class_4766 (3853d7f5)
-        biomes     = 53
-        namespaces = minecraft(53)
-[00:31:18] [Server thread/INFO]: [bclib] World Dimensions: 
+[14:27:15] [Server thread/INFO]: [bclib] World Dimensions: 
  - minecraft:the_nether: 
-     BCLib - Chunk Generator (773ccf00) 
-     BCLib - Nether BiomeSource (144677f2)
+     BCLib - Chunk Generator (18ec3391) 
+     BCLib - Nether BiomeSource (734aaaa4)
          biomes     = 5
          namespaces = minecraft(5)
          seed       = -4220016009642086521
          height     = 128
          config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
+ - minecraft:overworld: 
+     net.minecraft.class_3754@6b15040c 
+     class_4766 (4bb9324d)
+         biomes     = 53
+         namespaces = minecraft(53)
  - minecraft:the_end: 
-     BCLib - Chunk Generator (52942dbd) 
-     BCLib - The End  BiomeSource (3f1ba4d6)
+     BCLib - Chunk Generator (5182ccf5) 
+     BCLib - The End  BiomeSource (5875c7d8)
          biomes     = 24
-         namespaces = minecraft(5), betterend(19)
+         namespaces = betterend(19), minecraft(5)
          seed       = -4220016009642086521
          height     = 128
          deciders   = 0
          config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
- - minecraft:overworld: 
-     net.minecraft.class_3754@755ae0bd 
-     class_4766 (3853d7f5)
-         biomes     = 53
-         namespaces = minecraft(53)
-[00:31:18] [Server thread/INFO]: [bclib] Merged 19 additional Surface Rules for 
-BCLib - The End  BiomeSource (3f1ba4d6)
+[14:27:15] [Server thread/INFO]: [bclib] Merged 19 additional Surface Rules for 
+BCLib - The End  BiomeSource (5875c7d8)
     biomes     = 24
-    namespaces = minecraft(5), betterend(19)
+    namespaces = betterend(19), minecraft(5)
     seed       = -4220016009642086521
     height     = 128
     deciders   = 0
     config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256} => 20
-[00:31:18] [Server thread/INFO]: Changing watch distance to 10
-[00:31:18] [Server thread/INFO]: Changing watch distance to 10
-[00:31:18] [Server thread/INFO]: Changing watch distance to 10
-[00:31:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:31:18] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
-[00:31:20] [Server thread/INFO]: Preparing spawn area: 0%
-[00:31:20] [Server thread/INFO]: Preparing spawn area: 0%
-[00:31:20] [Server thread/INFO]: Preparing spawn area: 0%
-[00:31:20] [Server thread/INFO]: Preparing spawn area: 0%
-[00:31:21] [Server thread/INFO]: Time elapsed: 2471 ms
-[00:31:21] [Server thread/INFO]: Done (2.951s)! For help, type "help"
-[00:31:21] [Server thread/WARN]: Dedicated server took 20.097 seconds to load
-[00:31:21] [Server thread/INFO]: Start loading plugin from Jade
-[00:31:21] [Server thread/INFO]: Start loading plugin from Jade
-[00:31:21] [Server thread/INFO]: Start loading plugin from Jade
-[00:31:26] [Server thread/INFO]: ziKoc[/127.59.215.201:34435] logged in with entity id 326 at (188.1050904182664, 76.0, 121.32616448241224)
-[00:31:27] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
-[00:31:27] [Server thread/INFO]: Loading config from file...
-[00:31:27] [Server thread/INFO]: ziKoc joined the game
-[00:31:27] [Server thread/INFO]: Async chunk loading for player ziKoc completed
-[00:31:27] [Server thread/WARN]: Skipping Entity with id bodiesbodies:dead_body
-[00:31:29] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[00:31:29] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[00:31:29] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[00:31:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[00:31:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[00:31:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[00:31:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[00:31:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[00:31:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[00:31:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[00:31:29] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[00:31:38] [Server thread/INFO]: ziKoc was slain by Piglin Brute
-[00:31:42] [Server thread/INFO]: Async chunk loading for player ziKoc completed
-[00:31:48] [Server thread/INFO]: DinokoMC[/127.67.254.107:48285] logged in with entity id 715 at (189.1910536394386, 76.0, 120.19828363215656)
-[00:31:48] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
-[00:31:48] [Server thread/INFO]: Loading config from file...
-[00:31:48] [Server thread/INFO]: DinokoMC joined the game
-[00:31:48] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
-[00:31:48] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[00:31:48] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[00:31:48] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[00:31:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[00:31:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[00:31:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[00:31:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[00:31:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[00:31:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[00:31:48] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[00:31:48] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[00:31:54] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[00:32:11] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[00:32:26] [Server thread/INFO]: ziKoc tried to swim in lava
-[00:32:28] [Server thread/INFO]: Async chunk loading for player ziKoc completed
-[00:32:33] [Server thread/INFO]: [ziKoc: Set own game mode to Creative Mode]
-[00:32:56] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[00:37:04] [Server thread/INFO]: Pikel_03[/127.189.11.85:55879] logged in with entity id 2076 at (145.30614418790157, 74.0, 101.69999998807907)
-[00:37:04] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
-[00:37:04] [Server thread/INFO]: Loading config from file...
-[00:37:04] [Server thread/INFO]: Pikel_03 joined the game
-[00:37:04] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
-[00:37:07] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[00:37:07] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[00:37:07] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[00:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[00:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[00:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[00:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[00:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[00:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[00:37:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[00:37:07] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[00:38:11] [Server thread/WARN]: DinokoMC moved too quickly! 2.8927799839009083,0.4436351021062137,-9.746065900129693
-[00:42:40] [Server thread/INFO]: [ziKoc: Set own game mode to Survival Mode]
-[00:42:47] [Server thread/INFO]: [ziKoc: Set own game mode to Creative Mode]
-[00:42:51] [Server thread/INFO]: [ziKoc: Set own game mode to Survival Mode]
-[00:43:36] [Server thread/INFO]: [ziKoc: Gave 100 experience points to ziKoc]
-[00:43:37] [Server thread/INFO]: [ziKoc: Gave 100 experience points to ziKoc]
-[00:43:38] [Server thread/INFO]: [ziKoc: Gave 100 experience points to ziKoc]
-[00:43:38] [Server thread/INFO]: [ziKoc: Gave 100 experience points to ziKoc]
-[00:43:39] [Server thread/INFO]: [ziKoc: Gave 100 experience points to ziKoc]
-[00:43:48] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[00:44:03] [Server thread/INFO]: [ziKoc: Gave 10 experience levels to ziKoc]
-[00:44:18] [Server thread/INFO]: [ziKoc: Set own game mode to Creative Mode]
-[00:44:27] [Server thread/INFO]: [ziKoc: Set own game mode to Survival Mode]
-[00:44:44] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1264.500000, 67.500000, -799.500000]
-[00:44:47] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[00:44:48] [Server thread/INFO]: ziKoc has made the advancement [Eye Spy]
-[00:44:48] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[00:44:49] [Server thread/INFO]: Pikel_03 has made the advancement [Eye Spy]
-[00:45:10] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[00:46:03] [Worker-Main-2/INFO]: Instantiating Mojang DFU
-[00:46:06] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
-[00:46:06] [Server thread/INFO]: Pikel_03 left the game
-[00:48:13] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[00:52:13] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[00:53:53] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[00:56:58] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[00:57:33] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[00:58:07] [Server thread/INFO]: [Not Secure] <DinokoMC> dalw
-[00:58:08] [Server thread/INFO]: ziKoc lost connection: Disconnected
-[00:58:08] [Server thread/INFO]: ziKoc left the game
-[01:12:52] [Server thread/INFO]: Pikel_03[/127.189.11.85:60123] logged in with entity id 13638 at (-1186.0548866626918, 70.0, -821.6170202687116)
-[01:12:52] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
-[01:12:52] [Server thread/INFO]: Loading config from file...
-[01:12:52] [Server thread/INFO]: Pikel_03 joined the game
-[01:12:52] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
-[01:12:53] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[01:12:53] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[01:12:53] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[01:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[01:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[01:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[01:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[01:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[01:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[01:12:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[01:12:53] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[01:13:20] [Server thread/INFO]: ziKoc[/127.59.215.201:47587] logged in with entity id 13829 at (-1248.300000011921, 22.0, -771.5916262720942)
-[01:13:20] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
-[01:13:20] [Server thread/INFO]: Loading config from file...
-[01:13:20] [Server thread/INFO]: ziKoc joined the game
-[01:13:20] [Server thread/INFO]: Async chunk loading for player ziKoc completed
-[01:13:21] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[01:13:21] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[01:13:21] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[01:13:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[01:13:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[01:13:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[01:13:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[01:13:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[01:13:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[01:13:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[01:13:21] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[01:13:26] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[01:13:41] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[01:13:50] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:13:53] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 51.500000, 64.500000, 152.500000]
-[01:15:16] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:16:21] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[01:16:42] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:16:49] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:16:53] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:17:02] [Server thread/INFO]: DinokoMC has made the advancement [Face the Void]
-[01:17:02] [Server thread/INFO]: DinokoMC has made the advancement [The End?]
-[01:17:04] [Server thread/INFO]: Pikel_03 has made the advancement [Face the Void]
-[01:17:04] [Server thread/INFO]: Pikel_03 has made the advancement [The End?]
-[01:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
-[01:17:04] [Server thread/INFO]: ziKoc has made the advancement [Face the Void]
-[01:17:04] [Server thread/INFO]: ziKoc has made the advancement [The End?]
-[01:17:07] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[01:17:07] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[01:17:08] [Server thread/INFO]: Portal location is null. Placing manually...
-[01:17:08] [Server thread/INFO]: Set the exit portal location to: class_2338{x=0, y=60, z=0}
-[01:17:08] [Server thread/WARN]: ziKoc moved too quickly! 1411.1079124859898,30.464159374955443,745.3426267859793
-[01:17:08] [Server thread/WARN]: Pikel_03 moved too quickly! 1412.1860075038098,30.469036457342085,746.6479730160983
-[01:17:51] [Server thread/WARN]: DinokoMC moved too quickly! -9.508301915408353,2.249187078744683,2.916458916105716
-[01:17:53] [Server thread/INFO]: Starting initial dragon fight!
-[01:17:53] [Server thread/INFO]: Found all crystals, starting initial dragon spawn.
-[01:18:23] [Server thread/INFO]: Set the exit portal location to: class_2338{x=0, y=60, z=0}
-[01:18:30] [Server thread/WARN]: DinokoMC moved too quickly! -0.0032874260643467323,-10.82051378329497,-0.056579181082521135
-[01:18:39] [Server thread/INFO]: Pikel_03 has reached the goal [You Need a Mint]
-[01:18:49] [Server thread/WARN]: DinokoMC moved too quickly! 0.8144072553278505,-11.064980402202252,-0.53169693300425
-[01:18:52] [Server thread/WARN]: DinokoMC moved too quickly! 0.5591934780123609,-10.72812610848311,-0.20543147804916106
-[01:19:09] [Server thread/WARN]: DinokoMC moved too quickly! -8.973675527044843,0.6044241013267069,5.0120304276971765
-[01:22:00] [Server thread/INFO]: DinokoMC has made the advancement [Free the End]
-[01:22:10] [Server thread/INFO]: Set the exit portal location to: class_2338{x=0, y=60, z=0}
-[01:22:56] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[01:23:03] [Server thread/INFO]: Pikel_03 has reached the goal [The Next Generation]
-[01:23:17] [Server thread/INFO]: ziKoc has reached the goal [The Next Generation]
-[01:23:33] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[01:23:51] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[01:24:07] [Server thread/INFO]: DinokoMC has made the advancement [Remote Getaway]
-[01:24:42] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:24:51] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[01:25:10] [Server thread/INFO]: Pikel_03 has made the advancement [Local Brewery]
-[01:25:37] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:26:10] [Server thread/INFO]: [Not Secure] <ziKoc> xaero-waypoint:Portal devuelta:P:-1129:59:607:8:false:0:Internal-the-end-waypoints
-[01:26:11] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[01:26:19] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:27:02] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[01:27:05] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[01:27:46] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[01:28:25] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[01:28:28] [Server thread/WARN]: DinokoMC moved too quickly! -7.671228598325115,0.18000001311301617,6.6845168710488
-[01:28:39] [Server thread/WARN]: DinokoMC moved too quickly! -7.982347397932017,0.11996086142704598,6.240067425760117
-[01:28:48] [Server thread/WARN]: DinokoMC moved too quickly! -5.746480942835433,0.0,8.305475226722933
-[01:33:14] [Server thread/WARN]: DinokoMC moved too quickly! -5.683838144922447,-2.0,8.299810862902746
-[01:37:05] [Server thread/WARN]: DinokoMC moved too quickly! 0.02467442697570732,-2.1684000179529193,9.893092584588203
-[01:38:38] [Server thread/WARN]: DinokoMC moved too quickly! 2.880526646745693,3.1661092609382138,9.205549041955237
-[01:38:42] [Server thread/WARN]: DinokoMC moved too quickly! 3.7909123048466427,0.9986640208878512,9.371628394328127
-[01:38:52] [Server thread/WARN]: DinokoMC moved too quickly! 0.20879555696046737,-0.7491326388584199,10.157013436307352
-[01:40:59] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:42:12] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:42:39] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[01:42:41] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:42:42] [Server thread/INFO]: ziKoc fell from a high place
-[01:42:42] [Server thread/INFO]: Created new backpack backup file for ziKoc with unique ID travelersbackpack.spider_02.06.2025-01.42.42.dat
-[01:42:48] [Server thread/INFO]: Async chunk loading for player ziKoc completed
-[01:42:50] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[01:43:23] [Server thread/INFO]: DinokoMC has reached the goal [On Eternal Paths]
-[01:43:46] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[01:43:47] [Server thread/INFO]: ziKoc has reached the goal [On Eternal Paths]
-[01:43:51] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[01:43:51] [Server thread/INFO]: Pikel_03 has reached the goal [On Eternal Paths]
-[01:44:23] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[01:44:29] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
-[01:45:49] [Server thread/INFO]: [ziKoc: Teleported Pikel_03 to ziKoc]
-[01:48:22] [Server thread/WARN]: DinokoMC moved too quickly! -3.513083200377423,-0.756759288177264,9.702414061307081
-[01:48:28] [Server thread/INFO]: [Not Secure] <DinokoMC> ziKoc estas mute?
-[01:49:25] [Server thread/WARN]: DinokoMC moved too quickly! 8.438321011080916,-1.8585632865698116,5.471139089177996
-[01:49:54] [Server thread/WARN]: DinokoMC moved too quickly! -2.283572616444417,0.8787031594608052,9.77805015941658
-[01:50:31] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
-[01:50:31] [Server thread/INFO]: Pikel_03 left the game
-[01:50:53] [Server thread/INFO]: [Not Secure] <ziKoc> pa mi que se volea una pja y se devuelve
-[01:51:26] [Server thread/WARN]: DinokoMC was kicked for floating too long!
-[01:51:26] [Server thread/INFO]: DinokoMC lost connection: Disconnected
-[01:51:26] [Server thread/INFO]: DinokoMC left the game
-[01:51:26] [Server thread/WARN]: handleDisconnection() called twice
-[01:51:31] [Server thread/INFO]: DinokoMC[/127.67.254.107:58051] logged in with entity id 24505 at (-2880.2963294597134, 66.24918707874468, 3407.9901099518547)
-[01:51:31] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
-[01:51:31] [Server thread/INFO]: Loading config from file...
-[01:51:31] [Server thread/INFO]: DinokoMC joined the game
-[01:51:31] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
-[01:51:31] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[01:51:31] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[01:51:31] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[01:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[01:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[01:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[01:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[01:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[01:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[01:51:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[01:51:31] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[01:51:56] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[01:52:03] [Server thread/INFO]: Pikel_03[/127.189.11.85:45607] logged in with entity id 24765 at (-2532.7137944320816, 59.5, 2690.115208396663)
-[01:52:03] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
-[01:52:03] [Server thread/INFO]: Loading config from file...
-[01:52:03] [Server thread/INFO]: Pikel_03 joined the game
-[01:52:03] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
-[01:52:03] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[01:52:03] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[01:52:03] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[01:52:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[01:52:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[01:52:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[01:52:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[01:52:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[01:52:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[01:52:03] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[01:52:03] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[01:53:23] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[01:54:51] [Server thread/WARN]: DinokoMC moved too quickly! 8.828084060276069,-1.455467739585032,4.6216265826979
-[01:56:01] [Server thread/INFO]: DinokoMC lost connection: Timed out
-[01:56:01] [Server thread/INFO]: DinokoMC left the game
-[01:56:06] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[01:56:25] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[01:56:33] [Server thread/INFO]: DinokoMC[/127.67.254.107:49843] logged in with entity id 26662 at (-1995.3583613332974, 58.0, 3923.253649584645)
-[01:56:33] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
-[01:56:33] [Server thread/INFO]: Loading config from file...
-[01:56:33] [Server thread/INFO]: DinokoMC joined the game
-[01:56:33] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
-[01:56:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[01:56:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[01:56:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[01:56:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[01:56:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[01:56:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[01:56:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[01:56:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[01:56:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[01:56:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[01:56:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[01:56:51] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[01:57:20] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[01:57:32] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[01:59:31] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:00:34] [Server thread/WARN]: DinokoMC moved too quickly! 7.57990317038707,0.0,6.790400032765319
-[02:01:33] [Server thread/WARN]: DinokoMC moved too quickly! 10.025968172925104,-0.5061351021062137,-2.3285958391115855
-[02:02:17] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1480, y=67, z=3405} but found not block entity block Block{minecraft:end_stone} at location
-[02:02:17] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:end_stone} but failed at location class_2338{x=-1480, y=67, z=3405}
-[02:02:56] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:04:15] [Server thread/WARN]: DinokoMC moved too quickly! 2.5001142933915617,-1.3767356137817188,-9.701897661332623
-[02:05:01] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:05:12] [Server thread/INFO]: DinokoMC lost connection: Disconnected
-[02:05:12] [Server thread/INFO]: DinokoMC left the game
-[02:05:20] [Server thread/INFO]: DinokoMC[/127.67.254.107:45537] logged in with entity id 31403 at (-1301.449022080619, 68.56214142102701, 3205.300000011921)
-[02:05:20] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
-[02:05:20] [Server thread/INFO]: Loading config from file...
-[02:05:20] [Server thread/INFO]: DinokoMC joined the game
-[02:05:20] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
-[02:05:20] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[02:05:20] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[02:05:20] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[02:05:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[02:05:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[02:05:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[02:05:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[02:05:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[02:05:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[02:05:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[02:05:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[02:05:23] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
-[02:06:09] [Server thread/WARN]: DinokoMC moved too quickly! -3.0322851816333696,1.8870456577176924,-9.459761491448262
-[02:06:22] [Server thread/WARN]: DinokoMC moved too quickly! 9.795324097205253,-1.0,-1.8196780916678108
-[02:07:12] [Server thread/WARN]: DinokoMC moved too quickly! -4.435650159157831,0.0,-9.066981501700866
-[02:07:48] [Server thread/WARN]: DinokoMC moved too quickly! 7.048245630555584,1.7967356006687112,-7.019176737705493
-[02:08:15] [Server thread/WARN]: DinokoMC moved too quickly! 8.23152228892559,0.8245767040479066,-6.056935361169053
-[02:08:24] [Server thread/WARN]: DinokoMC moved too quickly! 9.553289589988253,1.4952008770059138,-2.7039556398885907
-[02:08:41] [Server thread/WARN]: DinokoMC moved too quickly! 5.926386241303476,0.716362715209172,8.170270849802819
-[02:10:02] [Server thread/WARN]: DinokoMC moved too quickly! -1.0875411939098285,2.1661092609382138,9.953650973729054
-[02:10:10] [Server thread/WARN]: DinokoMC moved too quickly! 5.5678856476821466,1.3693736602695168,8.524975429262668
-[02:10:18] [Server thread/WARN]: DinokoMC was kicked for floating too long!
-[02:10:18] [Server thread/INFO]: DinokoMC lost connection: Flying is not enabled on this server
-[02:10:18] [Server thread/INFO]: DinokoMC left the game
-[02:11:19] [Server thread/INFO]: DinokoMC[/127.67.254.107:59435] logged in with entity id 34244 at (-648.4860101783521, 62.25220334025373, 4222.018012968375)
-[02:11:19] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
-[02:11:19] [Server thread/INFO]: Loading config from file...
-[02:11:19] [Server thread/INFO]: DinokoMC joined the game
-[02:11:19] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
-[02:11:19] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[02:11:19] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[02:11:19] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[02:11:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[02:11:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[02:11:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[02:11:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[02:11:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[02:11:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[02:11:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[02:11:19] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[02:11:54] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:12:04] [Server thread/INFO]: DinokoMC lost connection: Timed out
-[02:12:04] [Server thread/INFO]: DinokoMC left the game
-[02:12:08] [Server thread/INFO]: DinokoMC[/127.67.254.107:44995] logged in with entity id 34689 at (-648.4860101783521, 61.10709663960209, 4222.018012968375)
-[02:12:08] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
-[02:12:08] [Server thread/INFO]: Loading config from file...
-[02:12:08] [Server thread/INFO]: DinokoMC joined the game
-[02:12:08] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
-[02:12:08] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[02:12:08] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[02:12:08] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[02:12:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[02:12:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[02:12:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[02:12:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[02:12:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[02:12:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[02:12:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[02:12:08] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[02:13:29] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:15:10] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[02:15:23] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:16:35] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[02:16:58] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[02:19:01] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:19:58] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[02:20:01] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:20:27] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:20:41] [Server thread/INFO]: DinokoMC has reached the goal [Countryside]
-[02:20:42] [Server thread/INFO]: ziKoc has reached the goal [Countryside]
-[02:20:45] [Server thread/INFO]: Pikel_03 has reached the goal [Countryside]
-[02:23:55] [Server thread/INFO]: [ziKoc: Teleported ziKoc to ziKoc]
-[02:23:57] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[02:25:27] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[02:26:58] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
-[02:27:06] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:27:19] [Server thread/INFO]: Locating element minecraft:end_city took 23 ms
-[02:27:52] [Server thread/INFO]: [Not Secure] <DinokoMC> 1600 3900
-[02:28:05] [Server thread/INFO]: [Not Secure] <ziKoc> xaero-waypoint:Waypoint:X:1608:~:3900:1:false:0:Internal-the-end-waypoints
-[02:28:41] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:28:41] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[02:29:43] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[02:29:49] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[02:29:55] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:30:14] [Server thread/INFO]: ziKoc has made the advancement [The City at the End of the Game]
-[02:30:41] [Server thread/INFO]: DinokoMC has made the advancement [The City at the End of the Game]
-[02:30:43] [Server thread/INFO]: ziKoc has reached the goal [Sky's the Limit]
-[02:30:48] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:30:49] [Server thread/INFO]: Pikel_03 has made the advancement [The City at the End of the Game]
-[02:31:32] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[02:35:11] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -1182.500000, 59.500000, 4630.500000]
-[02:35:29] [Server thread/INFO]: ziKoc has made the advancement [Remote Getaway]
-[02:35:50] [Server thread/INFO]: Async chunk loading for player ziKoc completed
-[02:42:04] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:42:04] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
-[02:42:04] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
-[02:42:04] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/bounty/swamp
-[02:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6089ms or 121 ticks behind
-[02:42:46] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[02:43:21] [Server thread/WARN]: ziKoc moved too quickly! 10.040215778081205,0.0,1.0983575623515378
-[02:43:37] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
-[02:45:36] [Server thread/WARN]: Pikel_03 moved wrongly!
-[02:47:40] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[02:50:09] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -1128.500000, 59.500000, 607.500000]
-[02:51:28] [Server thread/INFO]: Async chunk loading for player ziKoc completed
-[02:52:01] [Server thread/INFO]: ziKoc lost connection: Timed out
-[02:52:01] [Server thread/INFO]: ziKoc left the game
-[02:55:00] [Server thread/INFO]: ziKoc[/127.59.215.201:49123] logged in with entity id 57687 at (84.23437237558956, 64.07407764450262, 163.69999998807907)
-[02:55:00] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
-[02:55:00] [Server thread/INFO]: Loading config from file...
-[02:55:00] [Server thread/INFO]: ziKoc joined the game
-[02:55:00] [Server thread/INFO]: Async chunk loading for player ziKoc completed
-[02:55:02] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[02:55:02] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[02:55:02] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[02:55:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[02:55:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[02:55:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[02:55:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[02:55:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[02:55:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[02:55:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[02:55:02] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[02:56:49] [Server thread/INFO]: Locating element minecraft:end_city took 45 ms
-[02:59:16] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[02:59:57] [Server thread/INFO]: Locating element minecraft:end_city took 124 ms
-[03:03:24] [Server thread/INFO]: Locating element minecraft:end_city took 37 ms
-[03:05:06] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/24765, l='ServerLevel[world]', x=102.70, y=63.00, z=148.81] at TeleportTarget{pitch=25.738132, position=(0.5, 75.0, 23.808518914698567), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-48.044434}
-[03:05:25] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 164.500000, 69.500000, 103.500000]
-[03:05:57] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[03:08:15] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -1.500000, 75.500000, 23.500000]
-[03:08:19] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/57687, l='ServerLevel[world]', x=0.46, y=75.00, z=24.02] at TeleportTarget{pitch=12.474098, position=(102.5, 63.0, 149.0208570220331), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-51.309937}
-[03:10:32] [Server thread/INFO]: DinokoMC has reached the goal [Sky's the Limit]
-[03:15:08] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
-[03:15:08] [Server thread/INFO]: DinokoMC has completed the challenge [Great View From Up Here]
-[03:16:18] [Server thread/INFO]: [Not Secure] <DinokoMC> me vengoooooooooooo
-[03:16:37] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
-[03:17:00] [Server thread/INFO]: DinokoMC lost connection: Disconnected
-[03:17:00] [Server thread/INFO]: DinokoMC left the game
-[03:17:06] [Server thread/INFO]: DinokoMC[/127.67.254.107:41645] logged in with entity id 68968 at (89.54985371643485, 87.1516740405799, 99.83508259149728)
-[03:17:06] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
-[03:17:06] [Server thread/INFO]: Loading config from file...
-[03:17:06] [Server thread/INFO]: DinokoMC joined the game
-[03:17:06] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
-[03:17:06] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[03:17:06] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[03:17:06] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[03:17:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[03:17:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[03:17:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[03:17:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[03:17:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[03:17:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[03:17:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[03:17:06] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[03:17:22] [Server thread/INFO]: DinokoMC lost connection: Disconnected
-[03:17:22] [Server thread/INFO]: DinokoMC left the game
-[03:18:36] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[03:19:37] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[03:21:20] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
-[03:21:20] [Server thread/INFO]: Pikel_03 left the game
-[03:21:23] [Server thread/INFO]: Pikel_03[/127.189.11.85:38595] logged in with entity id 70438 at (68.43878213114318, 64.0, 162.45161547683625)
-[03:21:23] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
-[03:21:23] [Server thread/INFO]: Loading config from file...
-[03:21:23] [Server thread/INFO]: Pikel_03 joined the game
-[03:21:23] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
-[03:21:24] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[03:21:24] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[03:21:24] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[03:21:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[03:21:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[03:21:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[03:21:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[03:21:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[03:21:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[03:21:24] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[03:21:24] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[03:22:09] [Server thread/INFO]: ziKoc has reached the goal [You Need a Mint]
-[03:29:26] [Server thread/INFO]: [ziKoc: Set own game mode to Spectator Mode]
-[03:29:26] [Server thread/INFO]: [ziKoc: Set own game mode to Survival Mode]
-[03:31:38] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[03:50:20] [Server thread/INFO]: ziKoc lost connection: Timed out
-[03:50:20] [Server thread/INFO]: ziKoc left the game
-[03:52:34] [Server thread/INFO]: ziKoc[/127.59.215.201:40457] logged in with entity id 85075 at (17.344984598929557, 65.0, 175.97063416159128)
-[03:52:34] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
-[03:52:34] [Server thread/INFO]: Loading config from file...
-[03:52:34] [Server thread/INFO]: ziKoc joined the game
-[03:52:34] [Server thread/INFO]: Async chunk loading for player ziKoc completed
-[03:52:36] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[03:52:36] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[03:52:36] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[03:52:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[03:52:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[03:52:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[03:52:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[03:52:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[03:52:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[03:52:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[03:52:36] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[03:57:29] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/85075, l='ServerLevel[world]', x=102.41, y=63.00, z=148.70] at TeleportTarget{pitch=41.524124, position=(0.5, 75.0, 23.703985568891426), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-51.31256}
-[03:59:01] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[04:04:22] [Server thread/INFO]: [Not Secure] <ziKoc> xaero-waypoint:Portal End:E:-1306:16:-746:12:false:0:Internal-overworld-waypoints
-[04:05:31] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1305.500000, 16.500000, -745.500000]
-[04:10:04] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
-[04:12:27] [Server thread/INFO]: [Not Secure] <ziKoc> feeding
-[04:13:27] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
-[04:13:27] [Server thread/INFO]: Pikel_03 left the game
-[04:13:32] [Server thread/INFO]: Pikel_03[/127.189.11.85:41973] logged in with entity id 97895 at (54.81114616638728, 64.0, 159.50249535984042)
-[04:13:32] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
-[04:13:32] [Server thread/INFO]: Loading config from file...
-[04:13:32] [Server thread/INFO]: Pikel_03 joined the game
-[04:13:32] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
-[04:13:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[04:13:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[04:13:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[04:13:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[04:13:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[04:13:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[04:13:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[04:13:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[04:13:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[04:13:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[04:13:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[04:15:02] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
-[04:19:24] [Server thread/INFO]: Portal not located for entity class_3222['Pikel_03'/97895, l='ServerLevel[world]', x=102.22, y=64.00, z=148.93] at null
-[04:19:58] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 164.500000, 69.500000, 103.500000]
-[04:20:37] [Server thread/INFO]: ziKoc lost connection: Timed out
-[04:20:37] [Server thread/INFO]: ziKoc left the game
-[04:22:53] [Server thread/INFO]: Pikel_03 has made the advancement [Hot Stuff]
-[04:24:19] [Server thread/INFO]: Pikel_03 lost connection: Timed out
-[04:24:19] [Server thread/INFO]: Pikel_03 left the game
-[04:26:45] [Server thread/INFO]: Pikel_03[/127.189.11.85:42371] logged in with entity id 101853 at (189.49067610741096, 74.0, 102.12223238960475)
-[04:26:45] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
-[04:26:45] [Server thread/INFO]: Loading config from file...
-[04:26:45] [Server thread/INFO]: Pikel_03 joined the game
-[04:26:45] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
-[04:26:46] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[04:26:46] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[04:26:46] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[04:26:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[04:26:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[04:26:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[04:26:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[04:26:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[04:26:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[04:26:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[04:26:46] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[04:33:38] [Server thread/INFO]: [Pikel_03: Applied enchantment Infinity to Pikel_03's item]
-[04:33:52] [Server thread/INFO]: [Pikel_03: Gave 1 [Arrow] to Pikel_03]
-[04:34:37] [Server thread/INFO]: [Pikel_03: Applied enchantment Looting III to Pikel_03's item]
-[04:36:31] [Server thread/INFO]: Pikel_03 lost connection: Timed out
-[04:36:31] [Server thread/INFO]: Pikel_03 left the game
-[04:36:34] [Server thread/INFO]: Pikel_03[/127.189.11.85:52967] logged in with entity id 103214 at (184.38353985050932, 70.0, 98.01249998807907)
-[04:36:34] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
-[04:36:34] [Server thread/INFO]: Loading config from file...
-[04:36:34] [Server thread/INFO]: Pikel_03 joined the game
-[04:36:34] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
-[04:36:35] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[04:36:35] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[04:36:35] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[04:36:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[04:36:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[04:36:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[04:36:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[04:36:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[04:36:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[04:36:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[04:36:35] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
-[04:37:51] [Server thread/INFO]: [Pikel_03: Applied enchantment Mending to Pikel_03's item]
-[04:41:15] [Server thread/INFO]: [Pikel_03: Applied enchantment Mending to Pikel_03's item]
-[04:43:02] [Server thread/INFO]: [Pikel_03: Applied enchantment Fire Aspect II to Pikel_03's item]
-[04:47:14] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
-[04:47:29] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
-[04:50:20] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
-[04:50:20] [Server thread/INFO]: Pikel_03 left the game
+[14:27:15] [Server thread/INFO]: Changing watch distance to 10
+[14:27:15] [Server thread/INFO]: Changing watch distance to 10
+[14:27:15] [Server thread/INFO]: Changing watch distance to 10
+[14:27:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:27:15] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[14:27:17] [Server thread/INFO]: Preparing spawn area: 0%
+[14:27:17] [Server thread/INFO]: Preparing spawn area: 0%
+[14:27:17] [Server thread/INFO]: Preparing spawn area: 0%
+[14:27:17] [Server thread/INFO]: Preparing spawn area: 0%
+[14:27:18] [Server thread/INFO]: Time elapsed: 2483 ms
+[14:27:18] [Server thread/INFO]: Done (3.121s)! For help, type "help"
+[14:27:18] [Server thread/WARN]: Dedicated server took 33.281 seconds to load
+[14:27:18] [Server thread/INFO]: Start loading plugin from Jade
+[14:27:18] [Server thread/INFO]: Start loading plugin from Jade
+[14:27:18] [Server thread/INFO]: Start loading plugin from Jade
+[14:28:29] [Server thread/INFO]: Pikel_03[/127.189.11.85:42993] logged in with entity id 212 at (186.05538132220968, 70.0, 96.91476807323849)
+[14:28:29] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[14:28:29] [Server thread/INFO]: Loading config from file...
+[14:28:29] [Server thread/INFO]: Pikel_03 joined the game
+[14:28:29] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[14:28:29] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[14:28:29] [ForkJoinPool-5-worker-1/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[14:28:30] [ForkJoinPool-5-worker-1/INFO]: File https://crafatar.com/skins/e05eb666-2eb5-4bb9-8740-2b6d1a9dc60d downloaded
+[14:28:30] [ForkJoinPool-5-worker-1/INFO]: Loaded skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[14:28:30] [ForkJoinPool-5-worker-2/INFO]: Caching file world/skin_changer/skins/afc4c9dd-8d66-358b-8b8b-98baedbba298
+[14:28:30] [ForkJoinPool-5-worker-1/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[14:28:31] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[14:28:31] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[14:28:31] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[14:28:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[14:28:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[14:28:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[14:28:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[14:28:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[14:28:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[14:28:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[14:28:31] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[14:33:42] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1.500000, 75.500000, 23.500000]
+[14:33:44] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/212, l='ServerLevel[world]', x=-1.50, y=75.00, z=23.50] at TeleportTarget{pitch=23.304237, position=(102.5, 63.0, 149.50000077486038), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-70.40341}
+[14:34:10] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[14:34:10] [Server thread/INFO]: Pikel_03 left the game
+[14:34:10] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[14:34:13] [Server thread/INFO]: Pikel_03[/127.189.11.85:39287] logged in with entity id 1554 at (50.553494712842415, 65.5, 165.82838546664726)
+[14:34:13] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[14:34:13] [Server thread/INFO]: Loading config from file...
+[14:34:13] [Server thread/INFO]: Pikel_03 joined the game
+[14:34:13] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[14:34:13] [ForkJoinPool-5-worker-3/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[14:34:13] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[14:34:13] [ForkJoinPool-5-worker-3/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[14:34:14] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[14:34:14] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[14:34:14] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[14:34:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[14:34:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[14:34:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[14:34:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[14:34:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[14:34:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[14:34:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[14:34:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[14:34:24] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1305.500000, 16.500000, -745.500000]
+[14:34:33] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1128.500000, 59.500000, 607.500000]
+[14:34:47] [Server thread/INFO]: Locating element minecraft:end_city took 449 ms
+[14:35:35] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]

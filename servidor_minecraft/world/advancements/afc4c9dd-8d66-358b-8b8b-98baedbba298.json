@@ -5281,12 +5281,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/dragon_smithing": {
-    "criteria": {
-      "has_dragon": "2025-06-02 04:48:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-02 04:40:23 +0000"
@@ -5302,6 +5296,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-02 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon_smithing": {
+    "criteria": {
+      "has_dragon": "2025-06-02 04:48:13 +0000"
     },
     "done": true
   },
