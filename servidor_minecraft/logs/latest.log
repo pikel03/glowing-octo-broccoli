@@ -1768,3 +1768,14 @@ BCLib - The End  BiomeSource (1b04e88e)
 [02:02:23] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
 [02:02:43] [Server thread/INFO]: ziKoc has made the advancement [Spooky Scary Skeleton]
 [02:02:52] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
+[02:03:52] [Server thread/WARN]: Couldn't set damage of loot item 1 diamond_horse_armor
+[02:04:44] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
+[02:05:08] [Server thread/INFO]: [Not Secure] <DinokoMC> me pega
+[02:05:52] [Server thread/INFO]: [Not Secure] <DinokoMC> me pega
+[02:05:54] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
+[02:06:40] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[02:07:32] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[02:08:18] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:08:59] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/10211, l='ServerLevel[world]', x=-1.33, y=75.00, z=22.49] at TeleportTarget{pitch=-20.386103, position=(102.5, 63.0, 148.49293266618923), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-50.928955}
+[02:09:28] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/2566, l='ServerLevel[world]', x=-1.90, y=75.00, z=23.04] at TeleportTarget{pitch=44.53445, position=(102.5, 63.0, 149.04002320055542), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-82.14871}
+[02:09:56] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
