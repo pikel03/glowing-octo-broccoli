@@ -6286,6 +6286,327 @@
     },
     "done": true
   },
+  "betterend:terminite_anvil": {
+    "criteria": {
+      "got_terminite_anvil": "2025-06-03 15:18:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_anvil_updrade": {
+    "criteria": {
+      "has_block.betterend.terminite_anvil": "2025-06-03 15:18:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/granite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quartz_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/diorite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sandy_jadestone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/azure_jadestone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aurora_block": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_anvil": {
+    "criteria": {
+      "got_aeternium_anvil": "2025-06-03 15:21:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:hammer": {
+    "criteria": {
+      "got_diamond_hammer": "2025-06-03 15:24:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/netherite_hammer": {
+    "criteria": {
+      "has_item.betterend.diamond_hammer": "2025-06-03 15:24:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_hammer": {
+    "criteria": {
+      "has_item.betterend.aeternium_hammer_head": "2025-06-03 15:24:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_hammer_head": {
+    "criteria": {
+      "got_aeternium_hammer_head": "2025-06-03 15:24:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_hammer": {
+    "criteria": {
+      "got_aeternium_hammer": "2025-06-03 15:25:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:terminite_plate": {
+    "criteria": {
+      "got_erminite_plate": "2025-06-03 15:28:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_boots": {
+    "criteria": {
+      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_leggings": {
+    "criteria": {
+      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_helmet": {
+    "criteria": {
+      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_chestplate": {
+    "criteria": {
+      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:terminite_armor": {
+    "criteria": {
+      "got_terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_chestplate": {
+    "criteria": {
+      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/crystalite_chestplate": {
+    "criteria": {
+      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_chestplate_nugget_blasting": {
+    "criteria": {
+      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_chestplate_nugget_smelting": {
+    "criteria": {
+      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/crystalite_leggings": {
+    "criteria": {
+      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_leggings_nugget_blasting": {
+    "criteria": {
+      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_leggings_nugget_smelting": {
+    "criteria": {
+      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_leggings": {
+    "criteria": {
+      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/crystalite_boots": {
+    "criteria": {
+      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_boots_nugget_blasting": {
+    "criteria": {
+      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_boots": {
+    "criteria": {
+      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_boots_nugget_smelting": {
+    "criteria": {
+      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_helmet_nugget_smelting": {
+    "criteria": {
+      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/crystalite_helmet": {
+    "criteria": {
+      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_helmet_nugget_blasting": {
+    "criteria": {
+      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_helmet": {
+    "criteria": {
+      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_plate": {
+    "criteria": {
+      "got_aeternium_plate": "2025-06-03 15:30:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_armor": {
+    "criteria": {
+      "got_aeternium_boots": "2025-06-03 15:31:00 +0000",
+      "got_aeternium_chestplate": "2025-06-03 15:30:54 +0000",
+      "got_aeternium_helmet": "2025-06-03 15:31:01 +0000",
+      "got_aeternium_leggings": "2025-06-03 15:31:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_sword": {
+    "criteria": {
+      "has_item.betterend.aeternium_sword_blade": "2025-06-03 15:37:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_tool_head": {
+    "criteria": {
+      "got_aeternium_sword_head": "2025-06-03 15:37:52 +0000",
+      "got_aeternium_axe_head": "2025-06-03 16:24:29 +0000",
+      "got_aeternium_shovel_head": "2025-06-03 16:24:37 +0000",
+      "got_aeternium_pickaxe_head": "2025-06-03 16:23:24 +0000"
+    },
+    "done": false
+  },
+  "betterend:aeternium_tool": {
+    "criteria": {
+      "got_aeternium_pickaxe": "2025-06-03 16:25:03 +0000",
+      "got_aeternium_axe": "2025-06-03 16:25:23 +0000",
+      "got_aeternium_sword": "2025-06-03 15:38:08 +0000",
+      "got_aeternium_shovel": "2025-06-03 16:25:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 15:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:infusion": {
+    "criteria": {
+      "infusion_pedestal": "2025-06-03 15:52:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_pedestal": {
+    "criteria": {
+      "has_umbralith_pillar": "2025-06-03 15:56:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_pillar": {
+    "criteria": {
+      "has_umbralith_slab": "2025-06-03 15:56:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/umbralith_bricks_wall": {
     "criteria": {
       "has_umbralith_bricks": "2025-06-03 16:00:20 +0000"
@@ -6304,27 +6625,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/granite_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/umbralith_brick_stair_from_umbralith_brick_stonecutting": {
     "criteria": {
       "has_block.betterend.umbralith_bricks": "2025-06-03 16:00:20 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/andesite_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/quartz_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
     },
     "done": true
   },
@@ -6334,105 +6637,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/aeternium_axe": {
-    "criteria": {
-      "has_item.betterend.aeternium_axe_head": "2025-06-03 16:24:29 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/aeternium_hammer": {
-    "criteria": {
-      "has_item.betterend.aeternium_hammer_head": "2025-06-03 15:24:59 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_helmet_nugget_smelting": {
-    "criteria": {
-      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/diorite_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
-  "betterend:terminite_plate": {
-    "criteria": {
-      "got_erminite_plate": "2025-06-03 15:28:27 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/sandy_jadestone_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
-  "betterend:hammer": {
-    "criteria": {
-      "got_diamond_hammer": "2025-06-03 15:24:29 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_boots": {
-    "criteria": {
-      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/aeternium_shovel": {
-    "criteria": {
-      "has_item.betterend.aeternium_shovel_head": "2025-06-03 16:24:37 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/netherite_hammer": {
-    "criteria": {
-      "has_item.betterend.diamond_hammer": "2025-06-03 15:24:29 +0000"
-    },
-    "done": true
-  },
-  "betterend:terminite_armor": {
-    "criteria": {
-      "got_terminite_chestplate": "2025-06-03 15:29:14 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/aeternium_sword": {
-    "criteria": {
-      "has_item.betterend.aeternium_sword_blade": "2025-06-03 15:37:08 +0000"
-    },
-    "done": true
-  },
-  "betterend:aeternium_anvil": {
-    "criteria": {
-      "got_aeternium_anvil": "2025-06-03 15:21:36 +0000"
-    },
-    "done": true
-  },
-  "betterend:terminite_anvil": {
-    "criteria": {
-      "got_terminite_anvil": "2025-06-03 15:18:46 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/umbralith_bricks_slab": {
     "criteria": {
       "has_umbralith_bricks": "2025-06-03 16:00:20 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/crystalite_leggings": {
-    "criteria": {
-      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
     },
     "done": true
   },
@@ -6442,231 +6649,9 @@
     },
     "done": true
   },
-  "betterend:aeternium_armor": {
-    "criteria": {
-      "got_aeternium_boots": "2025-06-03 15:31:00 +0000",
-      "got_aeternium_chestplate": "2025-06-03 15:30:54 +0000",
-      "got_aeternium_helmet": "2025-06-03 15:31:01 +0000",
-      "got_aeternium_leggings": "2025-06-03 15:31:03 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_leggings_nugget_blasting": {
-    "criteria": {
-      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
-    },
-    "done": true
-  },
-  "betterend:aeternium_hammer_head": {
-    "criteria": {
-      "got_aeternium_hammer_head": "2025-06-03 15:24:59 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/crystalite_helmet": {
-    "criteria": {
-      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/virid_jadestone_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
-  "betterend:aeternium_hammer": {
-    "criteria": {
-      "got_aeternium_hammer": "2025-06-03 15:25:23 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/aeternium_chestplate": {
-    "criteria": {
-      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_leggings": {
-    "criteria": {
-      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/crystalite_chestplate": {
-    "criteria": {
-      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/sulphuric_rock_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/umbralith_pedestal": {
-    "criteria": {
-      "has_umbralith_pillar": "2025-06-03 15:56:31 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/flavolite_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/umbralith_bricks_stairs": {
     "criteria": {
       "has_umbralith_bricks": "2025-06-03 16:00:20 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_chestplate_nugget_blasting": {
-    "criteria": {
-      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/crystalite_boots": {
-    "criteria": {
-      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_helmet": {
-    "criteria": {
-      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/azure_jadestone_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_leggings_nugget_smelting": {
-    "criteria": {
-      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/aeternium_leggings": {
-    "criteria": {
-      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/umbralith_pillar": {
-    "criteria": {
-      "has_umbralith_slab": "2025-06-03 15:56:35 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_chestplate_nugget_smelting": {
-    "criteria": {
-      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
-    },
-    "done": true
-  },
-  "betterend:infusion": {
-    "criteria": {
-      "infusion_pedestal": "2025-06-03 15:52:06 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_boots_nugget_blasting": {
-    "criteria": {
-      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_anvil_updrade": {
-    "criteria": {
-      "has_block.betterend.terminite_anvil": "2025-06-03 15:18:46 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/violecite_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
-  "betterend:aeternium_tool_head": {
-    "criteria": {
-      "got_aeternium_sword_head": "2025-06-03 15:37:52 +0000",
-      "got_aeternium_axe_head": "2025-06-03 16:24:29 +0000",
-      "got_aeternium_shovel_head": "2025-06-03 16:24:37 +0000",
-      "got_aeternium_pickaxe_head": "2025-06-03 16:23:24 +0000"
-    },
-    "done": false
-  },
-  "betterend:recipes/misc/aeternium_boots": {
-    "criteria": {
-      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
-    },
-    "done": true
-  },
-  "betterend:aeternium_plate": {
-    "criteria": {
-      "got_aeternium_plate": "2025-06-03 15:30:01 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/aurora_block": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_the_recipe": "2025-06-03 15:51:59 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_helmet_nugget_blasting": {
-    "criteria": {
-      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/aeternium_helmet": {
-    "criteria": {
-      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_chestplate": {
-    "criteria": {
-      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/umbralith_lantern": {
-    "criteria": {
-      "has_crystal_shards": "2025-06-03 15:21:09 +0000"
-    },
-    "done": true
-  },
-  "betterend:infusion_finished": {
-    "criteria": {
-      "finished": "2025-06-03 16:08:19 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_boots_nugget_smelting": {
-    "criteria": {
-      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/aeternium_pickaxe": {
-    "criteria": {
-      "has_item.betterend.aeternium_pickaxe_head": "2025-06-03 16:23:24 +0000"
     },
     "done": true
   },
@@ -6676,14 +6661,29 @@
     },
     "done": true
   },
-  "betterend:aeternium_tool": {
+  "betterend:infusion_finished": {
     "criteria": {
-      "got_aeternium_pickaxe": "2025-06-03 16:25:03 +0000",
-      "got_aeternium_axe": "2025-06-03 16:25:23 +0000",
-      "got_aeternium_sword": "2025-06-03 15:38:08 +0000",
-      "got_aeternium_shovel": "2025-06-03 16:25:21 +0000"
+      "finished": "2025-06-03 16:08:19 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_pickaxe": {
+    "criteria": {
+      "has_item.betterend.aeternium_pickaxe_head": "2025-06-03 16:23:24 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_axe": {
+    "criteria": {
+      "has_item.betterend.aeternium_axe_head": "2025-06-03 16:24:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_shovel": {
+    "criteria": {
+      "has_item.betterend.aeternium_shovel_head": "2025-06-03 16:24:37 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
