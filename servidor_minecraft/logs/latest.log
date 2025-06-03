@@ -1821,3 +1821,73 @@ BCLib - The End  BiomeSource (1b04e88e)
 [02:23:57] [Server thread/INFO]: [ziKoc: Kicked DinokoMC: Kicked by an operator]
 [02:23:57] [Server thread/INFO]: DinokoMC lost connection: Kicked by an operator
 [02:23:57] [Server thread/INFO]: DinokoMC left the game
+[02:24:04] [Server thread/INFO]: DinokoMC[/127.67.254.107:53257] logged in with entity id 21514 at (-234.03963020153657, 71.19896873478127, -359.0456700462951)
+[02:24:04] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[02:24:04] [Server thread/INFO]: Loading config from file...
+[02:24:04] [Server thread/INFO]: DinokoMC joined the game
+[02:24:04] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[02:24:04] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:24:04] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[02:24:04] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:24:04] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:24:04] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:24:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:24:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:24:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:24:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:24:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:24:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:24:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:24:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:24:04] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[02:24:05] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[02:25:17] [Server thread/INFO]: DinokoMC was shot by Pikel_03
+[02:25:17] [Server thread/INFO]: Created new backpack backup file for DinokoMC with unique ID travelersbackpack.spider_03.06.2025-02.25.17.dat
+[02:25:21] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:25:22] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
+[02:27:16] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[02:27:16] [Server thread/INFO]: Pikel_03 left the game
+[02:27:16] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[02:27:19] [Server thread/INFO]: Pikel_03[/127.189.11.85:45671] logged in with entity id 23252 at (37.22150947255823, 64.0, 154.4047925533846)
+[02:27:19] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[02:27:19] [Server thread/INFO]: Loading config from file...
+[02:27:19] [Server thread/INFO]: Pikel_03 joined the game
+[02:27:19] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[02:27:19] [ForkJoinPool-5-worker-7/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[02:27:19] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[02:27:19] [ForkJoinPool-5-worker-7/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[02:27:20] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:27:20] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:27:20] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:27:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:27:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:29:45] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 77.500000, 64.500000, 171.500000]
+[02:30:47] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[02:32:36] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[02:32:36] [Server thread/INFO]: DinokoMC left the game
+[02:32:43] [Server thread/INFO]: DinokoMC[/127.67.254.107:45651] logged in with entity id 25715 at (-40.559201572510226, 67.0, 43.484424160511296)
+[02:32:43] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[02:32:43] [Server thread/INFO]: Loading config from file...
+[02:32:43] [Server thread/INFO]: DinokoMC joined the game
+[02:32:43] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[02:32:43] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:32:43] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:32:43] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:32:43] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:32:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:32:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:32:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:32:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:32:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:32:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:32:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:32:43] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:32:43] [ForkJoinPool-5-worker-8/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[02:32:43] [ForkJoinPool-5-worker-8/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[02:32:43] [ForkJoinPool-5-worker-8/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC

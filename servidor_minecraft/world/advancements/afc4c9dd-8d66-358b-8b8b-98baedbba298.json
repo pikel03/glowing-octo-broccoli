@@ -5784,13 +5784,13 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/wither": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-06-03 02:22:06 +0000"
+      "has_nether_wart": "2025-06-03 02:03:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
+  "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-06-03 02:03:38 +0000"
     },
@@ -5802,15 +5802,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/nether": {
+  "travelersbackpack:recipes/misc/wither": {
     "criteria": {
-      "has_nether_wart": "2025-06-03 02:03:38 +0000"
+      "has_wither_skeleton_skull": "2025-06-03 02:22:06 +0000"
     },
     "done": true
   },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-06-03 02:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-03 02:23:59 +0000"
     },
     "done": true
   },
