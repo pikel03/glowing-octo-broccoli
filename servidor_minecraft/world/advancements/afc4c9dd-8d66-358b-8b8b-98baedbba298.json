@@ -6334,6 +6334,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/aeternium_axe": {
+    "criteria": {
+      "has_item.betterend.aeternium_axe_head": "2025-06-03 16:24:29 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aeternium_hammer": {
     "criteria": {
       "has_item.betterend.aeternium_hammer_head": "2025-06-03 15:24:59 +0000"
@@ -6373,6 +6379,12 @@
   "betterend:recipes/misc/terminite_boots": {
     "criteria": {
       "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_shovel": {
+    "criteria": {
+      "has_item.betterend.aeternium_shovel_head": "2025-06-03 16:24:37 +0000"
     },
     "done": true
   },
@@ -6585,7 +6597,10 @@
   },
   "betterend:aeternium_tool_head": {
     "criteria": {
-      "got_aeternium_sword_head": "2025-06-03 15:37:52 +0000"
+      "got_aeternium_sword_head": "2025-06-03 15:37:52 +0000",
+      "got_aeternium_axe_head": "2025-06-03 16:24:29 +0000",
+      "got_aeternium_shovel_head": "2025-06-03 16:24:37 +0000",
+      "got_aeternium_pickaxe_head": "2025-06-03 16:23:24 +0000"
     },
     "done": false
   },
@@ -6649,6 +6664,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/aeternium_pickaxe": {
+    "criteria": {
+      "has_item.betterend.aeternium_pickaxe_head": "2025-06-03 16:23:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/enchanted_membrane": {
     "criteria": {
       "has_item.minecraft.phantom_membrane": "2025-06-03 16:01:57 +0000"
@@ -6657,7 +6678,10 @@
   },
   "betterend:aeternium_tool": {
     "criteria": {
-      "got_aeternium_sword": "2025-06-03 15:38:08 +0000"
+      "got_aeternium_pickaxe": "2025-06-03 16:25:03 +0000",
+      "got_aeternium_axe": "2025-06-03 16:25:23 +0000",
+      "got_aeternium_sword": "2025-06-03 15:38:08 +0000",
+      "got_aeternium_shovel": "2025-06-03 16:25:21 +0000"
     },
     "done": false
   },

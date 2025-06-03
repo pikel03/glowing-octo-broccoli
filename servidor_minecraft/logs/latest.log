@@ -1644,3 +1644,6 @@ BCLib - The End  BiomeSource (29b89b00)
 [16:18:42] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
 [16:19:53] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
 [16:20:04] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[16:31:00] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[16:31:00] [Server thread/INFO]: Pikel_03 left the game
+[16:31:00] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
