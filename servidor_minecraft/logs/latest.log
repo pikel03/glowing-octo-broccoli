@@ -1701,3 +1701,70 @@ BCLib - The End  BiomeSource (1b04e88e)
 [01:51:39] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1128.500000, 59.500000, 607.500000]
 [01:52:35] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
 [01:52:48] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/2566, l='ServerLevel[world]', x=102.50, y=63.00, z=149.46] at TeleportTarget{pitch=55.91641, position=(-1.5, 75.0, 23.46079625820809), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-164.98544}
+[01:52:57] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 164.500000, 69.500000, 103.500000]
+[01:53:15] [Server thread/INFO]: ziKoc[/127.59.215.201:38581] logged in with entity id 6214 at (756.0848491017825, 63.0, 679.9881863726164)
+[01:53:15] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[01:53:15] [Server thread/INFO]: Loading config from file...
+[01:53:15] [Server thread/INFO]: ziKoc joined the game
+[01:53:15] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[01:53:15] [ForkJoinPool-5-worker-4/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:53:15] [ForkJoinPool-5-worker-4/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[01:53:15] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:53:17] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:53:17] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:53:17] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:53:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:53:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:53:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:53:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:53:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:53:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:53:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:53:17] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:54:42] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:55:02] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:57:43] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[01:58:46] [Server thread/INFO]: DinokoMC has made the advancement [Spooky Scary Skeleton]
+[01:59:06] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[01:59:13] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[01:59:17] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[01:59:43] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[02:01:03] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:01:28] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[02:01:28] [Server thread/INFO]: ziKoc left the game
+[02:01:28] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[02:01:37] [Server thread/INFO]: ziKoc[/127.59.215.201:48775] logged in with entity id 10211 at (164.28576993880216, 64.0, 49.69286596788355)
+[02:01:37] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[02:01:37] [Server thread/INFO]: Loading config from file...
+[02:01:37] [Server thread/INFO]: ziKoc joined the game
+[02:01:37] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[02:01:37] [ForkJoinPool-5-worker-5/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[02:01:37] [ForkJoinPool-5-worker-5/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[02:01:37] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[02:01:38] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:01:38] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:01:38] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:01:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:01:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:01:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:01:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:01:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:01:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:01:38] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:01:38] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:01:46] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:02:03] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:07] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:07] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:07] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:08] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:08] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:08] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:08] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:08] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:23] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[02:02:43] [Server thread/INFO]: ziKoc has made the advancement [Spooky Scary Skeleton]
+[02:02:52] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
