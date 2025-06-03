@@ -1978,3 +1978,68 @@ BCLib - The End  BiomeSource (1b04e88e)
 [03:03:51] [Server thread/INFO]: ziKoc left the game
 [03:03:51] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
 [03:04:15] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:04:50] [Server thread/WARN]: DinokoMC moved wrongly!
+[03:06:09] [Server thread/INFO]: ziKoc[/127.59.215.201:34821] logged in with entity id 52311 at (-47.69999998807907, 0.0, 39.605871916658806)
+[03:06:09] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[03:06:09] [Server thread/INFO]: Loading config from file...
+[03:06:09] [Server thread/INFO]: ziKoc joined the game
+[03:06:09] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[03:06:09] [ForkJoinPool-5-worker-12/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[03:06:09] [ForkJoinPool-5-worker-12/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[03:06:09] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[03:06:11] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:06:11] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:06:11] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:06:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:06:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:06:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:06:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:06:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:06:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:06:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:06:11] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:06:43] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:06:45] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:08:39] [Server thread/INFO]: [Not Secure] <DinokoMC> sututuututututut
+[03:10:06] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[03:10:06] [Server thread/INFO]: Pikel_03 left the game
+[03:10:06] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[03:10:22] [Server thread/INFO]: Pikel_03[/127.189.11.85:51521] logged in with entity id 54403 at (60.336978481389586, 69.68787251882964, 165.21110998017872)
+[03:10:22] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[03:10:22] [Server thread/INFO]: Loading config from file...
+[03:10:22] [Server thread/INFO]: Pikel_03 joined the game
+[03:10:22] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[03:10:22] [ForkJoinPool-5-worker-13/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[03:10:22] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:10:22] [ForkJoinPool-5-worker-13/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[03:10:22] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:10:22] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:10:22] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:10:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:10:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:10:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:10:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:10:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:10:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:10:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:10:22] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:11:11] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:12:12] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 353.500000, 32.500000, 357.500000]
+[03:14:02] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:14:06] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:14:30] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[03:14:31] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:16:42] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[03:17:02] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[03:17:30] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:17:36] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:18:29] [Server thread/INFO]: DinokoMC has made the advancement [The Cutest Predator]
+[03:20:16] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:21:16] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[03:22:54] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
+[03:23:01] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:23:24] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 75.500000, 64.500000, 149.500000]
+[03:23:44] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 77.500000, 64.500000, 171.500000]
+[03:23:56] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/54403, l='ServerLevel[world]', x=102.70, y=63.00, z=148.70] at TeleportTarget{pitch=55.828777, position=(-1.5, 75.0, 22.700409533091545), velocity=(0.0, -0.0784000015258789, 0.0), yaw=177.56032}
+[03:24:01] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:24:02] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 164.500000, 69.500000, 103.500000]

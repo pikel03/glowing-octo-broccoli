@@ -17,12 +17,16 @@
       "minecraft:sunflower_plains": "2025-06-02 00:02:47 +0000",
       "minecraft:birch_forest": "2025-06-02 00:07:11 +0000",
       "minecraft:beach": "2025-05-29 01:16:43 +0000",
+      "minecraft:dark_forest": "2025-06-03 03:17:46 +0000",
       "minecraft:river": "2025-05-29 01:09:33 +0000",
       "minecraft:stony_shore": "2025-06-02 00:05:18 +0000",
       "minecraft:cold_ocean": "2025-05-30 03:18:59 +0000",
       "minecraft:forest": "2025-05-29 01:09:47 +0000",
+      "minecraft:lush_caves": "2025-06-03 03:17:58 +0000",
+      "minecraft:windswept_forest": "2025-06-03 03:17:05 +0000",
       "minecraft:ocean": "2025-06-02 00:03:20 +0000",
       "minecraft:flower_forest": "2025-05-31 00:39:33 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-06-03 03:15:00 +0000",
       "minecraft:plains": "2025-05-29 01:08:30 +0000"
     },
     "done": false
@@ -5507,6 +5511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-06-03 03:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-06-03 02:38:21 +0000"
@@ -5519,9 +5529,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-06-03 03:15:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-06-03 02:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-06-03 03:15:18 +0000"
     },
     "done": true
   },
@@ -5552,6 +5574,18 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-06-03 02:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-06-03 03:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-06-03 03:14:45 +0000"
     },
     "done": true
   },
