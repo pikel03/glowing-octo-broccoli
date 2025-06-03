@@ -4843,10 +4843,11 @@
       "got_plate": "2025-06-02 02:23:34 +0000",
       "got_aeternium": "2025-06-02 15:30:47 +0000",
       "got_handle": "2025-06-02 14:38:54 +0000",
+      "got_tool": "2025-06-03 15:35:48 +0000",
       "got_terminite": "2025-06-02 02:24:01 +0000",
       "got_thallasium": "2025-06-02 02:47:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "betterend:recipes/building_blocks/pythadendron_bark": {
     "criteria": {
@@ -6306,9 +6307,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_helmet_nugget_smelting": {
+    "criteria": {
+      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/diorite_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:terminite_plate": {
+    "criteria": {
+      "got_erminite_plate": "2025-06-03 15:28:27 +0000"
     },
     "done": true
   },
@@ -6324,9 +6337,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_boots": {
+    "criteria": {
+      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/netherite_hammer": {
     "criteria": {
       "has_item.betterend.diamond_hammer": "2025-06-03 15:24:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:terminite_armor": {
+    "criteria": {
+      "got_terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_sword": {
+    "criteria": {
+      "has_item.betterend.aeternium_sword_blade": "2025-06-03 15:37:08 +0000"
     },
     "done": true
   },
@@ -6348,9 +6379,36 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/crystalite_leggings": {
+    "criteria": {
+      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_armor": {
+    "criteria": {
+      "got_aeternium_boots": "2025-06-03 15:31:00 +0000",
+      "got_aeternium_chestplate": "2025-06-03 15:30:54 +0000",
+      "got_aeternium_helmet": "2025-06-03 15:31:01 +0000",
+      "got_aeternium_leggings": "2025-06-03 15:31:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_leggings_nugget_blasting": {
+    "criteria": {
+      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
+    },
+    "done": true
+  },
   "betterend:aeternium_hammer_head": {
     "criteria": {
       "got_aeternium_hammer_head": "2025-06-03 15:24:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/crystalite_helmet": {
+    "criteria": {
+      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
     },
     "done": true
   },
@@ -6366,6 +6424,24 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/aeternium_chestplate": {
+    "criteria": {
+      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_leggings": {
+    "criteria": {
+      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/crystalite_chestplate": {
+    "criteria": {
+      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sulphuric_rock_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-06-03 15:21:09 +0000"
@@ -6378,9 +6454,51 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_chestplate_nugget_blasting": {
+    "criteria": {
+      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/crystalite_boots": {
+    "criteria": {
+      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_helmet": {
+    "criteria": {
+      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/azure_jadestone_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_leggings_nugget_smelting": {
+    "criteria": {
+      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_leggings": {
+    "criteria": {
+      "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_chestplate_nugget_smelting": {
+    "criteria": {
+      "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_boots_nugget_blasting": {
+    "criteria": {
+      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
     },
     "done": true
   },
@@ -6396,15 +6514,51 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/aeternium_boots": {
+    "criteria": {
+      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_plate": {
+    "criteria": {
+      "got_aeternium_plate": "2025-06-03 15:30:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aurora_block": {
     "criteria": {
       "has_crystal_shards": "2025-06-03 15:21:09 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_helmet_nugget_blasting": {
+    "criteria": {
+      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_helmet": {
+    "criteria": {
+      "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_chestplate": {
+    "criteria": {
+      "has_terminite_forged_plate": "2025-06-03 15:28:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/umbralith_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_boots_nugget_smelting": {
+    "criteria": {
+      "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
     },
     "done": true
   },
