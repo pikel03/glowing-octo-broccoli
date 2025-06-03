@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-31 00:40:13 +0000",
+      "minecraft:sunflower_plains": "2025-06-03 02:23:19 +0000",
       "minecraft:birch_forest": "2025-06-01 03:36:06 +0000",
       "minecraft:windswept_hills": "2025-06-01 03:32:46 +0000",
       "minecraft:beach": "2025-05-29 00:57:48 +0000",
@@ -1512,6 +1513,7 @@
       "minecraft:spider": "2025-05-30 03:15:10 +0000",
       "minecraft:piglin_brute": "2025-05-31 01:28:02 +0000",
       "minecraft:creeper": "2025-05-30 03:03:56 +0000",
+      "minecraft:wither": "2025-06-03 02:23:27 +0000",
       "minecraft:wither_skeleton": "2025-05-31 01:39:39 +0000",
       "minecraft:shulker": "2025-06-02 02:31:05 +0000",
       "minecraft:cave_spider": "2025-06-02 01:14:36 +0000",
@@ -5782,6 +5784,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-03 02:22:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-06-03 02:03:38 +0000"
@@ -5797,6 +5805,12 @@
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-06-03 02:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-06-03 02:22:46 +0000"
     },
     "done": true
   },

@@ -1779,3 +1779,45 @@ BCLib - The End  BiomeSource (1b04e88e)
 [02:08:59] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/10211, l='ServerLevel[world]', x=-1.33, y=75.00, z=22.49] at TeleportTarget{pitch=-20.386103, position=(102.5, 63.0, 148.49293266618923), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-50.928955}
 [02:09:28] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/2566, l='ServerLevel[world]', x=-1.90, y=75.00, z=23.04] at TeleportTarget{pitch=44.53445, position=(102.5, 63.0, 149.04002320055542), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-82.14871}
 [02:09:56] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
+[02:15:12] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[02:15:20] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[02:15:26] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[02:16:15] [Server thread/INFO]: [Not Secure] <DinokoMC> estupidoooooooooooo
+[02:16:23] [Server thread/INFO]: [Not Secure] <DinokoMC> 4 losngotes
+[02:16:23] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[02:19:19] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:20:13] [Server thread/INFO]: DinokoMC has completed the challenge [Sniper Duel]
+[02:21:13] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:22:46] [Server thread/INFO]: ziKoc has made the advancement [Withering Heights]
+[02:22:46] [Server thread/INFO]: DinokoMC has made the advancement [Withering Heights]
+[02:22:46] [Server thread/INFO]: Pikel_03 has made the advancement [Withering Heights]
+[02:23:38] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
+[02:23:41] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
+[02:23:44] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
+[02:23:47] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
+[02:23:49] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
+[02:23:49] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[02:23:49] [Server thread/INFO]: DinokoMC left the game
+[02:23:53] [Server thread/INFO]: DinokoMC[/127.67.254.107:49203] logged in with entity id 21449 at (-232.74627713799083, 70.0, -360.7437356088747)
+[02:23:53] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[02:23:53] [Server thread/INFO]: Loading config from file...
+[02:23:53] [Server thread/INFO]: DinokoMC joined the game
+[02:23:53] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[02:23:53] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:23:53] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:23:53] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:23:53] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:23:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:23:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:23:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:23:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:23:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:23:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:23:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:23:53] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:23:54] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[02:23:54] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[02:23:54] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[02:23:57] [Server thread/INFO]: [ziKoc: Kicked DinokoMC: Kicked by an operator]
+[02:23:57] [Server thread/INFO]: DinokoMC lost connection: Kicked by an operator
+[02:23:57] [Server thread/INFO]: DinokoMC left the game

@@ -508,6 +508,7 @@
       "cooked_beef": "2025-05-30 02:39:02 +0000",
       "porkchop": "2025-05-31 01:49:13 +0000",
       "bread": "2025-05-29 01:17:29 +0000",
+      "golden_apple": "2025-06-03 02:22:55 +0000",
       "golden_carrot": "2025-05-31 02:09:06 +0000",
       "cooked_chicken": "2025-06-01 03:46:07 +0000"
     },
@@ -5326,6 +5327,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/stone/mossy_cobblestone": {
+    "criteria": {
+      "requirement": "2025-06-03 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-03 01:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-03 01:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-03 01:58:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-06-03 02:03:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-06-03 02:08:06 +0000"
@@ -5335,12 +5402,6 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-06-03 02:08:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
     },
     "done": true
   },
@@ -5356,27 +5417,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/wither": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-06-03 01:58:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-06-03 02:08:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
     },
     "done": true
   },
@@ -5386,27 +5429,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-06-03 01:58:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-03 02:08:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
     },
     "done": true
   },
@@ -5428,27 +5453,27 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/nether": {
+  "minecraft:adventure/sniper_duel": {
     "criteria": {
-      "has_nether_wart": "2025-06-03 02:03:32 +0000"
+      "killed_skeleton": "2025-06-03 02:20:13 +0000"
     },
     "done": true
   },
-  "master_cutter:recipes/stone/mossy_cobblestone": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "requirement": "2025-06-03 01:51:38 +0000"
+      "summoned": "2025-06-03 02:22:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-06-03 01:51:38 +0000"
+      "has_dandelion": "2025-06-03 02:23:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-06-03 01:58:46 +0000"
+      "has_nether_star": "2025-06-03 02:23:28 +0000"
     },
     "done": true
   },
