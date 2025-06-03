@@ -6284,9 +6284,33 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_bricks_wall": {
+    "criteria": {
+      "has_umbralith_bricks": "2025-06-03 16:00:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_slabs_from_umbralith_brick_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith_bricks": "2025-06-03 16:00:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_polished": {
+    "criteria": {
+      "has_umbralith_bricks": "2025-06-03 16:00:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/granite_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_stair_from_umbralith_brick_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith_bricks": "2025-06-03 16:00:20 +0000"
     },
     "done": true
   },
@@ -6299,6 +6323,12 @@
   "betterend:recipes/misc/quartz_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_flower_pot": {
+    "criteria": {
+      "has_umbralith_bricks": "2025-06-03 16:00:20 +0000"
     },
     "done": true
   },
@@ -6374,6 +6404,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_bricks_slab": {
+    "criteria": {
+      "has_umbralith_bricks": "2025-06-03 16:00:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-06-03 15:21:09 +0000"
@@ -6383,6 +6419,12 @@
   "betterend:recipes/misc/crystalite_leggings": {
     "criteria": {
       "has_item.betterend.terminite_leggings": "2025-06-03 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_wall_from_umbralith_brick_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith_bricks": "2025-06-03 16:00:20 +0000"
     },
     "done": true
   },
@@ -6449,9 +6491,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_pedestal": {
+    "criteria": {
+      "has_umbralith_pillar": "2025-06-03 15:56:31 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flavolite_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_bricks_stairs": {
+    "criteria": {
+      "has_umbralith_bricks": "2025-06-03 16:00:20 +0000"
     },
     "done": true
   },
@@ -6491,9 +6545,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_pillar": {
+    "criteria": {
+      "has_umbralith_slab": "2025-06-03 15:56:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/terminite_chestplate_nugget_smelting": {
     "criteria": {
       "has_item.betterend.terminite_chestplate": "2025-06-03 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:infusion": {
+    "criteria": {
+      "infusion_pedestal": "2025-06-03 15:52:06 +0000"
     },
     "done": true
   },
@@ -6539,6 +6605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 15:51:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/terminite_helmet_nugget_blasting": {
     "criteria": {
       "has_item.betterend.terminite_helmet": "2025-06-03 15:29:20 +0000"
@@ -6566,6 +6638,12 @@
   "betterend:recipes/misc/terminite_boots_nugget_smelting": {
     "criteria": {
       "has_item.betterend.terminite_boots": "2025-06-03 15:29:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-06-03 16:01:57 +0000"
     },
     "done": true
   },
