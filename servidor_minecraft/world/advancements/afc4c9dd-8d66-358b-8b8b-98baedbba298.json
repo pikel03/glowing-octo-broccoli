@@ -5614,9 +5614,11 @@
   },
   "betterend:all_elytras": {
     "criteria": {
+      "crystalite": "2025-06-03 16:09:40 +0000",
+      "armored": "2025-06-03 16:12:30 +0000",
       "vanilla": "2025-06-02 15:30:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:end/elytra": {
     "criteria": {
@@ -6632,6 +6634,12 @@
   "betterend:recipes/misc/umbralith_lantern": {
     "criteria": {
       "has_crystal_shards": "2025-06-03 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:infusion_finished": {
+    "criteria": {
+      "finished": "2025-06-03 16:08:19 +0000"
     },
     "done": true
   },
