@@ -5306,11 +5306,11 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
-      "illager_camp": "2025-06-02 04:20:07 +0000"
+      "has_copper_ore": "2025-06-02 03:52:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
@@ -5324,33 +5324,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/aeternium_hoe_head": {
-    "criteria": {
-      "has_item.betterend.aeternium_ingot": "2025-06-02 04:08:33 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/aeternium_block": {
-    "criteria": {
-      "has_aeternium_ingot": "2025-06-02 04:08:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 04:00:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/quartz_smithing": {
-    "criteria": {
-      "has_quartz": "2025-06-02 04:00:32 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/amber_block": {
-    "criteria": {
-      "has_amber_gem": "2025-06-02 04:08:20 +0000"
     },
     "done": true
   },
@@ -5366,21 +5342,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/aeternium_pickaxe_head": {
-    "criteria": {
-      "has_item.betterend.aeternium_ingot": "2025-06-02 04:08:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-06-02 04:00:20 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/aeternium_axe_head": {
-    "criteria": {
-      "has_item.betterend.aeternium_ingot": "2025-06-02 04:08:33 +0000"
     },
     "done": true
   },
@@ -5414,6 +5378,42 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/quartz_smithing": {
+    "criteria": {
+      "has_quartz": "2025-06-02 04:00:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/amber_block": {
+    "criteria": {
+      "has_amber_gem": "2025-06-02 04:08:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_hoe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-06-02 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_block": {
+    "criteria": {
+      "has_aeternium_ingot": "2025-06-02 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_pickaxe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-06-02 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aeternium_axe_head": {
+    "criteria": {
+      "has_item.betterend.aeternium_ingot": "2025-06-02 04:08:33 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aeternium_forged_plate": {
     "criteria": {
       "has_item.betterend.aeternium_ingot": "2025-06-02 04:08:33 +0000"
@@ -5423,12 +5423,6 @@
   "betterend:recipes/misc/aeternium_hammer_head": {
     "criteria": {
       "has_item.betterend.aeternium_ingot": "2025-06-02 04:08:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-06-02 03:52:51 +0000"
     },
     "done": true
   },
@@ -5443,6 +5437,12 @@
       "has_item.betterend.aeternium_ingot": "2025-06-02 04:08:33 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-06-02 04:20:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
