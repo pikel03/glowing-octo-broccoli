@@ -5826,9 +5826,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
-      "has_iron_ore": "2025-06-03 02:41:50 +0000"
+      "has_copper_ore": "2025-06-03 02:39:12 +0000"
     },
     "done": true
   },
@@ -5838,21 +5838,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-06-03 02:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-06-03 02:41:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-06-03 02:41:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
     "criteria": {
-      "has_copper_ore": "2025-06-03 02:39:12 +0000"
+      "has_lapis_ore": "2025-06-03 02:54:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
-      "has_coal_ore": "2025-06-03 02:40:01 +0000"
+      "has_lapis_ore": "2025-06-03 02:54:01 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/stone/deepslate": {
+    "criteria": {
+      "requirement": "2025-06-03 02:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-06-03 02:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-06-03 02:58:24 +0000"
     },
     "done": true
   },

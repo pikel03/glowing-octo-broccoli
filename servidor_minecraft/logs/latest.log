@@ -1924,3 +1924,57 @@ BCLib - The End  BiomeSource (1b04e88e)
 [02:53:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [02:53:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [02:53:06] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:55:02] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:55:11] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:55:18] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:56:36] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[02:56:36] [Server thread/INFO]: Pikel_03 left the game
+[02:56:36] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[02:57:27] [Server thread/INFO]: Pikel_03[/127.189.11.85:54425] logged in with entity id 48110 at (-47.69999998807907, 1.0, 47.49767545150841)
+[02:57:27] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[02:57:27] [Server thread/INFO]: Loading config from file...
+[02:57:27] [Server thread/INFO]: Pikel_03 joined the game
+[02:57:27] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[02:57:27] [ForkJoinPool-5-worker-10/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[02:57:27] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[02:57:27] [ForkJoinPool-5-worker-10/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[02:57:28] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:57:28] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:57:28] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:57:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:57:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:57:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:57:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:57:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:57:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:57:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:57:28] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:58:42] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[02:58:42] [Server thread/INFO]: Pikel_03 left the game
+[02:58:42] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[03:01:04] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/43675, l='ServerLevel[world]', x=102.70, y=63.00, z=149.01] at TeleportTarget{pitch=40.22139, position=(-1.5, 75.0, 23.01389478064732), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-28.301514}
+[03:02:35] [Server thread/INFO]: Pikel_03[/127.189.11.85:37889] logged in with entity id 50862 at (-37.66451122191785, 2.0, 39.36542025634426)
+[03:02:35] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[03:02:35] [Server thread/INFO]: Loading config from file...
+[03:02:35] [Server thread/INFO]: Pikel_03 joined the game
+[03:02:35] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[03:02:35] [ForkJoinPool-5-worker-11/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[03:02:35] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:02:35] [ForkJoinPool-5-worker-11/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[03:02:36] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:02:36] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:02:36] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:02:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:02:36] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:02:45] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:03:22] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:03:51] [Server thread/INFO]: ziKoc lost connection: Timed out
+[03:03:51] [Server thread/INFO]: ziKoc left the game
+[03:03:51] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[03:04:15] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
