@@ -5447,21 +5447,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-06-03 02:23:19 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-06-03 02:02:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-06-03 02:27:37 +0000"
     },
     "done": true
   },
@@ -5471,9 +5459,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-03 02:02:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-06-03 02:05:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-06-03 02:16:25 +0000"
     },
     "done": true
   },
@@ -5483,15 +5483,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-06-03 02:02:43 +0000"
+      "has_dandelion": "2025-06-03 02:23:19 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/enchanted_membrane": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_item.minecraft.phantom_membrane": "2025-06-03 02:16:25 +0000"
+      "has_nether_star": "2025-06-03 02:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-06-03 02:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-06-03 02:38:21 +0000"
     },
     "done": true
   },

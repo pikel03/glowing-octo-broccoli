@@ -1891,3 +1891,36 @@ BCLib - The End  BiomeSource (1b04e88e)
 [02:32:43] [ForkJoinPool-5-worker-8/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
 [02:32:43] [ForkJoinPool-5-worker-8/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
 [02:32:43] [ForkJoinPool-5-worker-8/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[02:38:21] [Server thread/INFO]: DinokoMC has reached the goal [Beaconator]
+[02:38:21] [Server thread/INFO]: DinokoMC has made the advancement [Bring Home the Beacon]
+[02:38:21] [Server thread/INFO]: ziKoc has reached the goal [Beaconator]
+[02:38:21] [Server thread/INFO]: ziKoc has made the advancement [Bring Home the Beacon]
+[02:38:54] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:39:02] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to ziKoc]
+[02:39:07] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[02:42:38] [Server thread/INFO]: [Not Secure] <ziKoc> crispeta
+[02:45:45] [Server thread/INFO]: [Not Secure] <DinokoMC> akjajajaja
+[02:46:23] [Server thread/INFO]: [Not Secure] <DinokoMC> akjajajaja
+[02:46:57] [Server thread/INFO]: [Not Secure] <ziKoc> JAJAJAJA
+[02:50:57] [Server thread/INFO]: ziKoc lost connection: Timed out
+[02:50:57] [Server thread/INFO]: ziKoc left the game
+[02:50:57] [Server thread/INFO]: Removing session data for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[02:53:04] [Server thread/INFO]: ziKoc[/127.59.215.201:37255] logged in with entity id 43675 at (-41.12034543424138, 18.0, 32.47097706302358)
+[02:53:05] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[02:53:05] [Server thread/INFO]: Loading config from file...
+[02:53:05] [Server thread/INFO]: ziKoc joined the game
+[02:53:05] [Server thread/INFO]: Player ziKoc just logged in with id 1aeaa7cc-6376-3256-be3e-ab68b32c3bc6
+[02:53:05] [ForkJoinPool-5-worker-9/INFO]: Loading local skin for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[02:53:05] [ForkJoinPool-5-worker-9/INFO]: Loading local cape for player ziKoc[1aeaa7cc-6376-3256-be3e-ab68b32c3bc6]
+[02:53:05] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[02:53:06] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:53:06] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:53:06] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:53:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:53:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:53:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:53:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:53:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:53:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:53:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:53:06] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
