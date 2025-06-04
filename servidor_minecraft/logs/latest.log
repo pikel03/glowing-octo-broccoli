@@ -2029,3 +2029,97 @@ BCLib - The End  BiomeSource (28367bd5)
 [23:11:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [23:11:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [23:11:07] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[23:20:05] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/297, l='ServerLevel[world]', x=102.03, y=64.00, z=149.07] at TeleportTarget{pitch=39.778732, position=(-1.5, 76.0, 23.067545348223916), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-111.052246}
+[23:21:07] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[23:21:07] [Server thread/INFO]: Pikel_03 left the game
+[23:21:07] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[23:22:06] [Server thread/INFO]: DinokoMC[/127.67.254.107:52417] logged in with entity id 3044 at (53.16630847629563, 64.0, 168.57430495697898)
+[23:22:06] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[23:22:06] [Server thread/INFO]: Loading config from file...
+[23:22:06] [Server thread/INFO]: DinokoMC joined the game
+[23:22:06] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[23:22:06] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[23:22:06] [ForkJoinPool-5-worker-2/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[23:22:06] [ForkJoinPool-5-worker-2/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[23:22:06] [ForkJoinPool-5-worker-2/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[23:22:11] [Server thread/INFO]: Pikel_03[/127.189.11.85:47667] logged in with entity id 3159 at (-15.593353161520836, 76.0, 19.777350710434007)
+[23:22:11] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[23:22:11] [Server thread/INFO]: Loading config from file...
+[23:22:11] [Server thread/INFO]: Pikel_03 joined the game
+[23:22:11] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[23:22:11] [ForkJoinPool-5-worker-2/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[23:22:11] [ForkJoinPool-5-worker-2/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[23:22:11] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[23:22:11] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23:22:11] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23:22:11] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23:22:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23:22:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23:22:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23:22:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23:22:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23:22:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23:22:11] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23:22:11] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[23:22:21] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23:22:21] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23:22:21] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23:22:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23:22:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23:22:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23:22:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23:22:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23:22:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23:22:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23:22:21] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[23:22:50] [Server thread/INFO]: [Not Secure] <Pikel_03> te escucho mal
+[23:23:23] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[23:27:18] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[23:27:18] [Server thread/INFO]: Pikel_03 left the game
+[23:27:18] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[23:28:49] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 75.500000, 64.500000, 149.500000]
+[23:30:52] [Server thread/INFO]: Pikel_03[/127.189.11.85:37813] logged in with entity id 6248 at (43.118656146732974, 64.0, 165.76293095318923)
+[23:30:52] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[23:30:52] [Server thread/INFO]: Loading config from file...
+[23:30:53] [Server thread/INFO]: Pikel_03 joined the game
+[23:30:53] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[23:30:53] [ForkJoinPool-5-worker-3/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[23:30:53] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[23:30:53] [ForkJoinPool-5-worker-3/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[23:30:53] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23:30:53] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23:30:53] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23:30:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23:30:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23:30:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23:30:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23:30:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23:30:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23:30:53] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23:30:53] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[23:31:53] [Server thread/INFO]: [Not Secure] <DinokoMC> ?'
+[23:31:58] [Server thread/INFO]: [Not Secure] <Pikel_03> aguantalo
+[23:32:01] [Server thread/INFO]: [Not Secure] <DinokoMC> dle
+[23:33:17] [Server thread/INFO]: [Not Secure] <DinokoMC> aajjaa
+[23:34:02] [Server thread/INFO]: [Not Secure] <DinokoMC> no te escuchol
+[23:34:06] [Server thread/INFO]: [Not Secure] <Pikel_03> l ose
+[23:34:12] [Server thread/INFO]: [Not Secure] <DinokoMC> q mrd es esto
+[23:34:14] [Server thread/INFO]: [Not Secure] <Pikel_03> no estoy hablando
+[23:34:21] [Server thread/INFO]: [Not Secure] <DinokoMC> ok
+[23:34:25] [Server thread/INFO]: [Not Secure] <Pikel_03> es pa craftear la otra armadura
+[23:34:31] [Server thread/INFO]: [Not Secure] <DinokoMC> ñeldaaa
+[23:34:39] [Server thread/INFO]: [Not Secure] <DinokoMC> mano hagamos la granjia
+[23:34:46] [Server thread/INFO]: [Not Secure] <Pikel_03> nagua si
+[23:34:53] [Server thread/INFO]: [Not Secure] <Pikel_03> por algo termine de reunir los materiales
+[23:35:02] [Server thread/INFO]: [Not Secure] <DinokoMC> sisas
+[23:35:10] [Server thread/INFO]: [Not Secure] <DinokoMC> mrd mano
+[23:35:18] [Server thread/INFO]: [Not Secure] <Pikel_03> cuantos andamios eran?
+[23:35:18] [Server thread/INFO]: [Not Secure] <DinokoMC> hay un coñazo de hierro
+[23:35:25] [Server thread/INFO]: [Not Secure] <DinokoMC> 20 creo
+[23:37:35] [Server thread/INFO]: [Not Secure] <Pikel_03> pilla esto
+[23:37:42] [Server thread/INFO]: [Not Secure] <Pikel_03> naguevona
+[23:37:43] [Server thread/INFO]: [Not Secure] <DinokoMC> q
+[23:37:46] [Server thread/INFO]: [Not Secure] <DinokoMC> ajajjaja}
+[23:37:48] [Server thread/INFO]: [Not Secure] <DinokoMC> te dije
+[23:37:59] [Server thread/INFO]: [Not Secure] <Pikel_03> guevona mardito mardito
+[23:38:04] [Server thread/INFO]: [Not Secure] <Pikel_03> es burda de hierro

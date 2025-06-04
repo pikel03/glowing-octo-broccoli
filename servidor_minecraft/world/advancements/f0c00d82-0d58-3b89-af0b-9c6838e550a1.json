@@ -5601,7 +5601,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-03 03:33:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-03 03:33:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-06-03 03:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-06-03 03:33:52 +0000"
     },
@@ -5616,18 +5634,6 @@
   "betterend:recipes/misc/hydralux_petal_block_white": {
     "criteria": {
       "has_white_dye": "2025-06-03 03:33:54 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/sulphur_gunpowder": {
-    "criteria": {
-      "has_bone_meal": "2025-06-03 03:33:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-06-03 03:33:29 +0000"
     },
     "done": true
   },
@@ -5646,12 +5652,6 @@
   "betterend:recipes/misc/terminite_bulb_lantern_white": {
     "criteria": {
       "has_white_dye": "2025-06-03 03:33:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-06-03 03:46:49 +0000"
     },
     "done": true
   },
@@ -5727,11 +5727,23 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_bone_meal": "2025-06-03 03:33:52 +0000"
+      "has_redstone_torch": "2025-06-03 03:46:49 +0000"
     },
     "done": true
+  },
+  "betterend:aeternium_armor": {
+    "criteria": {
+      "got_aeternium_helmet": "2025-06-04 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "betterend:aeternium_tool": {
+    "criteria": {
+      "got_aeternium_sword": "2025-06-04 23:26:57 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -6989,5 +6989,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 23:18:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 23:18:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
