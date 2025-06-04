@@ -5303,6 +5303,7 @@
   },
   "betterend:all_elytras": {
     "criteria": {
+      "armored": "2025-06-04 23:40:02 +0000",
       "vanilla": "2025-06-02 03:10:32 +0000"
     },
     "done": false

@@ -2123,3 +2123,11 @@ BCLib - The End  BiomeSource (28367bd5)
 [23:37:48] [Server thread/INFO]: [Not Secure] <DinokoMC> te dije
 [23:37:59] [Server thread/INFO]: [Not Secure] <Pikel_03> guevona mardito mardito
 [23:38:04] [Server thread/INFO]: [Not Secure] <Pikel_03> es burda de hierro
+[23:41:11] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/6248, l='ServerLevel[world]', x=101.96, y=64.00, z=148.87] at TeleportTarget{pitch=27.870604, position=(-1.5, 76.0, 22.867093598263523), velocity=(-0.0032623318215663235, -0.0784000015258789, 0.0), yaw=45.83496}
+[23:41:12] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/3044, l='ServerLevel[world]', x=102.70, y=63.00, z=148.91] at TeleportTarget{pitch=14.629954, position=(-1.5, 75.0, 22.90617026043762), velocity=(0.0, -0.0784000015258789, 0.0), yaw=30.824951}
+[23:43:23] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1.500000, 75.500000, 23.500000]
+[23:43:25] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/6248, l='ServerLevel[world]', x=-1.50, y=75.00, z=23.50] at TeleportTarget{pitch=50.133602, position=(102.5, 63.0, 149.50000077486038), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-141.07065}
+[23:43:32] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/3044, l='ServerLevel[world]', x=-1.37, y=75.00, z=23.30] at TeleportTarget{pitch=16.875666, position=(102.5, 63.0, 149.2955234413012), velocity=(0.0, -0.0784000015258789, 0.0), yaw=46.246185}
+[23:43:38] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[23:43:38] [Server thread/INFO]: Pikel_03 left the game
+[23:43:38] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
