@@ -1555,7 +1555,8 @@
       "minecraft:silverfish": "2025-06-02 00:45:07 +0000",
       "minecraft:endermite": "2025-06-03 20:03:43 +0000",
       "minecraft:zombie": "2025-05-30 03:03:29 +0000",
-      "minecraft:drowned": "2025-06-01 05:47:17 +0000"
+      "minecraft:drowned": "2025-06-01 05:47:17 +0000",
+      "minecraft:zombie_villager": "2025-06-04 02:04:02 +0000"
     },
     "done": false
   },
@@ -6979,6 +6980,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-06-03 20:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-04 02:13:36 +0000"
     },
     "done": true
   },

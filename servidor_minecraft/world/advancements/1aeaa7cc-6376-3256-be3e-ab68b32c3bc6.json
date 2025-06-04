@@ -15,6 +15,7 @@
     "criteria": {
       "minecraft:taiga": "2025-06-01 03:35:26 +0000",
       "minecraft:sunflower_plains": "2025-06-03 02:22:51 +0000",
+      "minecraft:cherry_grove": "2025-06-04 02:12:31 +0000",
       "minecraft:birch_forest": "2025-06-01 04:28:45 +0000",
       "minecraft:windswept_hills": "2025-05-31 03:20:47 +0000",
       "minecraft:beach": "2025-05-30 02:52:51 +0000",
@@ -5136,6 +5137,7 @@
       "got_netherite": "2025-06-02 04:08:45 +0000",
       "got_leather": "2025-06-02 02:24:02 +0000",
       "got_plate": "2025-06-02 02:24:01 +0000",
+      "got_aeternium": "2025-06-04 01:52:15 +0000",
       "got_handle": "2025-06-02 02:24:02 +0000",
       "got_tool": "2025-06-02 04:08:45 +0000"
     },
@@ -5173,6 +5175,7 @@
   },
   "betterend:all_elytras": {
     "criteria": {
+      "armored": "2025-06-04 01:47:53 +0000",
       "vanilla": "2025-06-02 02:30:43 +0000"
     },
     "done": false
@@ -5555,21 +5558,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-03 03:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-03 03:34:24 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-06-03 03:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-03 03:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-03 03:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-03 03:34:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-06-03 03:35:48 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/building_blocks/dye_light_gray_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-06-03 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-03 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-03 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_light_gray": {
+    "criteria": {
+      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-03 03:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-06-03 03:35:48 +0000"
     },
     "done": true
   },
@@ -5591,27 +5678,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-06-03 03:34:24 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/iron_bulb_lantern_light_gray": {
-    "criteria": {
-      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-06-03 03:35:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
     },
     "done": true
   },
@@ -5621,33 +5690,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/hydralux_petal_block_light_gray": {
-    "criteria": {
-      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/sulphur_gunpowder": {
-    "criteria": {
-      "has_bone_meal": "2025-06-03 03:34:24 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/building_blocks/dye_blue_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-06-03 03:35:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-06-03 03:33:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-03 03:34:40 +0000"
     },
     "done": true
   },
@@ -5663,12 +5708,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-06-03 03:34:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-03 03:35:48 +0000"
@@ -5681,33 +5720,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-03 03:34:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-03 03:35:48 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_bulb_lantern_light_gray": {
-    "criteria": {
-      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-06-03 03:34:45 +0000"
     },
     "done": true
   },
@@ -5717,21 +5732,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-06-03 04:00:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-03 03:35:48 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_bulb_lantern_light_gray": {
-    "criteria": {
-      "has_light_gray_dye": "2025-06-03 03:34:40 +0000"
     },
     "done": true
   },
@@ -5741,9 +5744,114 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
-      "has_bone_meal": "2025-06-03 03:34:24 +0000"
+      "axolotl_bucket": "2025-06-03 04:00:50 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/neon_cactus_block": {
+    "criteria": {
+      "has_neon_cactus": "2025-06-04 01:45:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_armor": {
+    "criteria": {
+      "got_aeternium_boots": "2025-06-04 01:46:24 +0000",
+      "got_aeternium_chestplate": "2025-06-04 01:46:25 +0000",
+      "got_aeternium_helmet": "2025-06-04 01:46:25 +0000",
+      "got_aeternium_leggings": "2025-06-04 01:46:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_nuggets_from_ingot": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-06-04 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_chandelier": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-06-04 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-06-04 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_pressure_plate": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-06-04 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bars": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-06-04 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_block": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-06-04 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_trapdoor": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-06-04 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_chain": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-06-04 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_anvil": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-06-04 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_door": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-06-04 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_hammer": {
+    "criteria": {
+      "got_aeternium_hammer": "2025-06-04 01:52:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_tool": {
+    "criteria": {
+      "got_aeternium_sword": "2025-06-04 02:01:04 +0000"
+    },
+    "done": false
+  },
+  "betterend:hammer": {
+    "criteria": {
+      "got_diamond_hammer": "2025-06-04 02:27:17 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/netherite_hammer": {
+    "criteria": {
+      "has_item.betterend.diamond_hammer": "2025-06-04 02:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-04 02:34:25 +0000"
     },
     "done": true
   },
