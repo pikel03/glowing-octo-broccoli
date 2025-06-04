@@ -6718,129 +6718,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2025-06-03 20:01:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-06-03 20:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2025-06-03 20:01:23 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/warden": {
-    "criteria": {
-      "has_echo_shard": "2025-06-03 19:57:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-06-03 20:39:05 +0000"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/wood/mangrove": {
-    "criteria": {
-      "requirement": "2025-06-03 20:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-06-03 19:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-06-03 20:19:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-06-03 20:01:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
-    "criteria": {
-      "has_cut_red_sandstone": "2025-06-03 20:40:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-06-03 20:01:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-06-03 20:39:23 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2025-06-03 19:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-06-03 20:09:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-06-03 20:19:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-06-03 20:39:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-06-03 20:20:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-06-03 19:17:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-06-03 19:47:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-06-03 19:47:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2025-06-03 20:38:17 +0000"
     },
     "done": true
   },
@@ -6850,75 +6730,39 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+  "travelersbackpack:recipes/misc/hay": {
     "criteria": {
-      "has_black_wool": "2025-06-03 20:19:25 +0000"
+      "has_wheat": "2025-06-03 19:46:53 +0000"
     },
     "done": true
   },
-  "nova_structures:root": {
+  "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-06-03 20:24:31 +0000"
+      "has_packed_ice": "2025-06-03 19:47:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "has_smooth_sandstone": "2025-06-03 20:39:05 +0000"
+      "has_ice": "2025-06-03 19:47:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_cut_red_sandstone": "2025-06-03 20:40:19 +0000"
+      "has_snowball": "2025-06-03 19:50:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
+  "travelersbackpack:recipes/misc/snow": {
     "criteria": {
-      "has_black_wool": "2025-06-03 20:19:25 +0000"
+      "has_snowball": "2025-06-03 19:50:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_bricks": "2025-06-03 20:01:23 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_jungle": "2025-06-03 20:24:31 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2025-06-03 20:25:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-06-03 20:39:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
-    "criteria": {
-      "has_cut_red_sandstone": "2025-06-03 20:40:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-06-03 19:57:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-06-03 20:01:22 +0000"
+      "has_snowball": "2025-06-03 19:50:44 +0000"
     },
     "done": true
   },
@@ -6928,15 +6772,81 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2025-06-03 19:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-06-03 19:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-06-03 20:01:22 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/wood/mangrove": {
+    "criteria": {
+      "requirement": "2025-06-03 20:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-06-03 20:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-06-03 20:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-06-03 20:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-03 20:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-03 20:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-06-03 20:01:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-03 20:01:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "master_cutter:recipes/stone/bricks": {
     "criteria": {
-      "has_raw_iron_block": "2025-06-03 20:45:54 +0000"
+      "requirement": "2025-06-03 20:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-03 20:09:06 +0000"
     },
     "done": true
   },
@@ -6952,21 +6862,111 @@
     },
     "done": true
   },
-  "master_cutter:recipes/stone/bricks": {
-    "criteria": {
-      "requirement": "2025-06-03 20:01:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-03 20:15:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_snowball": "2025-06-03 19:50:44 +0000"
+      "has_black_wool": "2025-06-03 20:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-06-03 20:19:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-06-03 20:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-06-03 20:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-03 20:20:35 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-06-03 20:24:31 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2025-06-03 20:24:31 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-06-03 20:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-06-03 20:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-03 20:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-03 20:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-03 20:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-03 20:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-03 20:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-06-03 20:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-06-03 20:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-06-03 20:40:19 +0000"
     },
     "done": true
   },
@@ -6976,9 +6976,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/hay": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_wheat": "2025-06-03 19:46:53 +0000"
+      "has_raw_iron_block": "2025-06-03 20:45:54 +0000"
     },
     "done": true
   },
