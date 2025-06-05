@@ -19,3 +19,34 @@
 [00:02:57] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
 [00:03:06] [Server thread/INFO]: [Not Secure] <DinokoMC> espera
 [00:03:19] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[00:30:57] [Server thread/INFO]: DinokoMC lost connection: Timed out
+[00:30:57] [Server thread/INFO]: DinokoMC left the game
+[00:31:35] [Server thread/INFO]: DinokoMC[/127.67.254.107:36093] logged in with entity id 21605 at (24.69999998807907, 97.0, 347.3649621888179)
+[00:31:35] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[00:31:35] [Server thread/INFO]: Loading config from file...
+[00:31:35] [Server thread/INFO]: DinokoMC joined the game
+[00:31:35] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[00:31:35] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[00:31:35] [ForkJoinPool-5-worker-5/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[00:31:35] [ForkJoinPool-5-worker-5/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[00:31:35] [ForkJoinPool-5-worker-5/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[00:31:39] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:31:39] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:31:39] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:31:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:31:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:31:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:31:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:31:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:31:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:31:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:31:39] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:34:03] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1264.500000, 67.500000, -799.500000]
+[00:36:18] [Worker-Main-1/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[00:36:18] [Worker-Main-1/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[00:36:18] [Worker-Main-1/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[00:37:10] [Worker-Main-2/INFO]: Instantiating Mojang DFU
+[00:37:30] [Worker-Main-1/WARN]: Non-existent template pool reference: minecraft:minecraft_empty
+[00:46:46] [Worker-Main-3/WARN]: Skipping Entity with id 
+[00:46:46] [Worker-Main-3/WARN]: Skipping Entity with id 
+[00:47:36] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 75.500000, 64.500000, 149.500000]
