@@ -5756,11 +5756,11 @@
     },
     "done": false
   },
-  "nova_structures:adventure/find_all_illager_structures": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "illager_camp": "2025-06-05 00:41:12 +0000"
+      "has_ice": "2025-06-05 00:33:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
@@ -5771,12 +5771,6 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-06-05 00:40:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-06-05 00:33:32 +0000"
     },
     "done": true
   },
@@ -5803,6 +5797,12 @@
       "has_copper_block": "2025-06-05 00:40:48 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-06-05 00:41:12 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

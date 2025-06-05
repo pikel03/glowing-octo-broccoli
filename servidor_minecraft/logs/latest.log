@@ -57,3 +57,49 @@
 [00:59:55] [Server thread/WARN]: DinokoMC was kicked for floating too long!
 [00:59:55] [Server thread/INFO]: DinokoMC lost connection: Flying is not enabled on this server
 [00:59:55] [Server thread/INFO]: DinokoMC left the game
+[01:00:39] [Server thread/INFO]: DinokoMC[/127.67.254.107:47549] logged in with entity id 40943 at (18.60852825580548, 64.87633597911214, 352.8271547685237)
+[01:00:39] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[01:00:39] [Server thread/INFO]: Loading config from file...
+[01:00:39] [Server thread/INFO]: DinokoMC joined the game
+[01:00:39] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[01:00:39] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:00:39] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:00:40] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:00:40] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:00:47] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:00:47] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:00:47] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:00:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:00:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:00:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:00:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:00:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:00:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:00:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:00:47] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:00:56] [Server thread/WARN]: DinokoMC was kicked for floating too long!
+[01:00:56] [Server thread/INFO]: DinokoMC lost connection: Flying is not enabled on this server
+[01:00:56] [Server thread/INFO]: DinokoMC left the game
+[01:01:03] [Server thread/INFO]: DinokoMC[/127.67.254.107:35551] logged in with entity id 41120 at (18.60852825580548, 64.87633597911214, 352.8271547685237)
+[01:01:03] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[01:01:03] [Server thread/INFO]: Loading config from file...
+[01:01:03] [Server thread/INFO]: DinokoMC joined the game
+[01:01:03] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[01:01:03] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:01:03] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:01:04] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:01:04] [ForkJoinPool-5-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[01:01:04] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:01:04] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:01:04] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:01:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:01:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:01:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:01:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:01:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:01:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:01:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:01:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/glowing-octo-broccoli/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:03:22] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[01:06:17] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[01:06:34] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
